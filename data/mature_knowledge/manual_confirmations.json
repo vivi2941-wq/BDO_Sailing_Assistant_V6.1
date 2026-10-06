@@ -1,0 +1,723 @@
+[
+  {
+    "row_index": 5,
+    "source_file": "2026-08-26_1121560468.JPG",
+    "point_id": "POINT_Q_005",
+    "input_item_id": "ITEM_1_011",
+    "output_item_id": "ITEM_2_005",
+    "issues": [
+      "OCR低信心"
+    ]
+  },
+  {
+    "row_index": 22,
+    "source_file": "2026-08-26_1121576383.JPG",
+    "point_id": "POINT_D_001",
+    "input_item_id": "ITEM_4_004",
+    "output_item_id": "ITEM_5_008",
+    "issues": [
+      "OCR低信心"
+    ]
+  },
+  {
+    "row_index": 35,
+    "source_file": "2026-08-26_1121592833.JPG",
+    "point_id": "POINT_X_008",
+    "input_item_id": "",
+    "output_item_id": "ITEM_1_007",
+    "issues": [
+      "OCR低信心"
+    ]
+  },
+  {
+    "row_index": 38,
+    "source_file": "2026-08-26_1121597153.JPG",
+    "point_id": "POINT_X_002",
+    "input_item_id": "ITEM_4_007",
+    "output_item_id": "",
+    "issues": [
+      "OCR低信心"
+    ]
+  },
+  {
+    "row_index": 43,
+    "source_file": "2026-08-26_1121601908.JPG",
+    "point_id": "POINT_X_007",
+    "input_item_id": "ITEM_1_006",
+    "output_item_id": "",
+    "issues": [
+      "OCR低信心"
+    ]
+  },
+  {
+    "row_index": 4,
+    "source_file": "2026-08-28_1330446994.JPG",
+    "point_id": "POINT_W_002",
+    "input_item_id": "ITEM_6_011",
+    "output_item_id": "ITEM_7_021",
+    "issues": [
+      "OCR低信心"
+    ]
+  },
+  {
+    "row_index": 26,
+    "source_file": "2026-08-28_1330464211.JPG",
+    "point_id": "POINT_D_007",
+    "input_item_id": "ITEM_1_003",
+    "output_item_id": "",
+    "issues": [
+      "OCR低信心"
+    ]
+  },
+  {
+    "row_index": 37,
+    "source_file": "2026-08-28_1330474821.JPG",
+    "point_id": "POINT_A_005",
+    "input_item_id": "ITEM_4_005",
+    "output_item_id": "",
+    "issues": [
+      "OUTPUT區無法判定"
+    ]
+  },
+  {
+    "row_index": 43,
+    "source_file": "2026-08-28_1330479375.JPG",
+    "point_id": "POINT_X_002",
+    "input_item_id": "ITEM_2_009",
+    "output_item_id": "",
+    "issues": [
+      "OUTPUT區無法判定"
+    ]
+  },
+  {
+    "row_index": 44,
+    "source_file": "2026-08-28_1330479375.JPG",
+    "point_id": "POINT_X_004",
+    "input_item_id": "ITEM_4_013",
+    "output_item_id": "ITEM_5_005",
+    "issues": [
+      "OCR低信心"
+    ]
+  },
+  {
+    "row_index": 45,
+    "source_file": "2026-08-28_1330479375.JPG",
+    "point_id": "POINT_X_005",
+    "input_item_id": "ITEM_3_013",
+    "output_item_id": "",
+    "issues": [
+      "OUTPUT區無法判定"
+    ]
+  },
+  {
+    "row_index": 46,
+    "source_file": "2026-08-28_1330479375.JPG",
+    "point_id": "POINT_X_003",
+    "input_item_id": "ITEM_2_002",
+    "output_item_id": "ITEM_3_007",
+    "issues": [
+      "OCR低信心"
+    ]
+  },
+  {
+    "row_index": 56,
+    "source_file": "2026-08-28_1330488184.JPG",
+    "point_id": "POINT_Z_004",
+    "input_item_id": "ITEM_2_007",
+    "output_item_id": "ITEM_3_006",
+    "issues": [
+      "OCR低信心"
+    ]
+  },
+  {
+    "row_index": 65,
+    "source_file": "2026-08-28_1330492504.JPG",
+    "point_id": "POINT_Q_002",
+    "input_item_id": "ITEM_3_005",
+    "output_item_id": "ITEM_4_004",
+    "issues": [
+      "OCR低信心"
+    ]
+  },
+  {
+    "row_index": 70,
+    "source_file": "2026-08-28_1330497159.JPG",
+    "point_id": "POINT_R_004",
+    "input_item_id": "ITEM_3_008",
+    "output_item_id": "ITEM_4_010",
+    "issues": [
+      "OCR低信心"
+    ]
+  },
+  {
+    "row_index": 81,
+    "source_file": "2026-08-28_1330504766.JPG",
+    "point_id": "POINT_REMOTE_004",
+    "input_item_id": "ITEM_4_007",
+    "output_item_id": "",
+    "issues": [
+      "OCR低信心"
+    ]
+  },
+  {
+    "signature": {
+      "point_id": "POINT_W_002",
+      "input_item_id": "ITEM_6_011",
+      "output_item_id": "ITEM_7_021",
+      "point_raw": "",
+      "input_raw": "月光水晶提燈",
+      "output_raw": "巴雷諾斯星光鹽"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_X_004",
+      "input_item_id": "ITEM_4_013",
+      "output_item_id": "ITEM_5_005",
+      "point_raw": "",
+      "input_raw": "万靈藥",
+      "output_raw": "來歷不明的岩石"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_X_003",
+      "input_item_id": "ITEM_2_002",
+      "output_item_id": "ITEM_3_007",
+      "point_raw": "",
+      "input_raw": "精饮用水",
+      "output_raw": "稀有藥草堆"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_Z_004",
+      "input_item_id": "ITEM_2_007",
+      "output_item_id": "ITEM_3_006",
+      "point_raw": "",
+      "input_raw": "島村便當",
+      "output_raw": "骷裝饰茶杯"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_Q_002",
+      "input_item_id": "ITEM_3_005",
+      "output_item_id": "ITEM_4_004",
+      "point_raw": "",
+      "input_raw": "很久以前的沙漏",
+      "output_raw": "偷的海贼團短刀"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_R_004",
+      "input_item_id": "ITEM_3_008",
+      "output_item_id": "ITEM_4_010",
+      "point_raw": "",
+      "input_raw": "海贼團的補給箱",
+      "output_raw": "被截脖的龍雕像"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_D_007",
+      "input_item_id": "ITEM_1_003",
+      "output_item_id": "",
+      "point_raw": "",
+      "input_raw": "刺蓮花種子袋",
+      "output_raw": "遺失的貿易品箱子"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_A_005",
+      "input_item_id": "ITEM_4_005",
+      "output_item_id": "",
+      "point_raw": "",
+      "input_raw": "五彩線團",
+      "output_raw": "大洋固玄鐵"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_X_002",
+      "input_item_id": "ITEM_2_009",
+      "output_item_id": "",
+      "point_raw": "",
+      "input_raw": "海瞻刺",
+      "output_raw": "岩塊"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_X_005",
+      "input_item_id": "ITEM_3_013",
+      "output_item_id": "",
+      "point_raw": "",
+      "input_raw": "撕破的海藏實圖",
+      "output_raw": "含深海記憶的黏"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_REMOTE_004",
+      "input_item_id": "ITEM_4_007",
+      "output_item_id": "",
+      "point_raw": "",
+      "input_raw": "紫水晶碎片",
+      "output_raw": "烏鴉硬幣"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_D_007",
+      "input_item_id": "ITEM_1_003",
+      "output_item_id": "",
+      "exchange_type": "1段→特殊交換"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_D_007",
+      "input_item_id": "ITEM_1_003",
+      "output_item_id": "",
+      "exchange_type": "1段→特殊交換"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_A_005",
+      "input_item_id": "ITEM_4_005",
+      "output_item_id": "",
+      "exchange_type": "待判定"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_X_002",
+      "input_item_id": "ITEM_2_009",
+      "output_item_id": "",
+      "exchange_type": "待判定"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_X_005",
+      "input_item_id": "ITEM_3_013",
+      "output_item_id": "",
+      "exchange_type": "待判定"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_REMOTE_004",
+      "input_item_id": "ITEM_4_007",
+      "output_item_id": "",
+      "exchange_type": "4段→特殊交換"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_C_003",
+      "input_item_id": "ITEM_4_005",
+      "output_item_id": "ITEM_5_007",
+      "exchange_type": "4段→5段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_X_007",
+      "input_item_id": "ITEM_1_014",
+      "output_item_id": "",
+      "exchange_type": "1段→特殊交換"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_F_001",
+      "input_item_id": "ITEM_1_011",
+      "output_item_id": "ITEM_2_013",
+      "exchange_type": "1段→2段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_R_001",
+      "input_item_id": "ITEM_1_004",
+      "output_item_id": "ITEM_2_011",
+      "exchange_type": "1段→2段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_REMOTE_005",
+      "input_item_id": "ITEM_4_001",
+      "output_item_id": "",
+      "output_name": "烏鴉硬幣",
+      "exchange_type": "4段→特殊交換"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_A_005",
+      "input_item_id": "ITEM_4_005",
+      "output_item_id": "ITEM_MISC_0013",
+      "output_name": "大洋固玄鐵",
+      "exchange_type": "待判定"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_X_007",
+      "input_item_id": "ITEM_1_014",
+      "output_item_id": "ITEM_MISC_0010",
+      "output_name": "遺失的貿易品箱子",
+      "exchange_type": "1段→特殊交換"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_REMOTE_005",
+      "input_item_id": "ITEM_4_001",
+      "output_item_id": "ITEM_MISC_0012",
+      "output_name": "烏鴉硬幣",
+      "exchange_type": "4段→特殊交換"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_S_006",
+      "input_item_id": "ITEM_MISC_0043",
+      "output_item_id": "ITEM_1_004",
+      "output_name": "乾燥藍玫瑰",
+      "exchange_type": "一般材料→1段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_S_004",
+      "input_item_id": "ITEM_2_005",
+      "output_item_id": "ITEM_3_013",
+      "output_name": "撕破的海賊藏寶圖",
+      "exchange_type": "2段→3段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_W_004",
+      "input_item_id": "ITEM_4_002",
+      "output_item_id": "ITEM_5_007",
+      "output_name": "金色魚鱗",
+      "exchange_type": "4段→5段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_D_004",
+      "input_item_id": "ITEM_2_006",
+      "output_item_id": "ITEM_3_002",
+      "output_name": "料理專用半月刀",
+      "exchange_type": "2段→3段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_D_007",
+      "input_item_id": "ITEM_1_010",
+      "output_item_id": "ITEM_MISC_0010",
+      "output_name": "遺失的貿易品箱子",
+      "exchange_type": "1段→特殊交換"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_A_004",
+      "input_item_id": "ITEM_2_004",
+      "output_item_id": "ITEM_3_004",
+      "output_name": "骷髏圖案地毯",
+      "exchange_type": "2段→3段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_X_005",
+      "input_item_id": "ITEM_5_010",
+      "output_item_id": "ITEM_MISC_0008",
+      "output_name": "奧基魯阿之花",
+      "exchange_type": "5段→特殊交換"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_X_006",
+      "input_item_id": "ITEM_2_007",
+      "output_item_id": "ITEM_3_005",
+      "output_name": "很久以前的沙漏",
+      "exchange_type": "2段→3段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_F_003",
+      "input_item_id": "ITEM_3_013",
+      "output_item_id": "ITEM_4_004",
+      "output_name": "偷竊的海賊團短刀",
+      "exchange_type": "3段→4段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_Z_006",
+      "input_item_id": "ITEM_3_007",
+      "output_item_id": "ITEM_4_013",
+      "output_name": "萬靈藥",
+      "exchange_type": "3段→4段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_HIGHG_002",
+      "input_item_id": "ITEM_5_011",
+      "output_item_id": "ITEM_6_004",
+      "output_name": "黃金沙漠的沙子戒指",
+      "exchange_type": "5段→6段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_Q_002",
+      "input_item_id": "ITEM_3_005",
+      "output_item_id": "ITEM_4_009",
+      "output_name": "海上騎士團的頭盔",
+      "exchange_type": "3段→4段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_R_004",
+      "input_item_id": "ITEM_3_008",
+      "output_item_id": "ITEM_4_005",
+      "output_name": "五彩線團",
+      "exchange_type": "3段→4段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_R_005",
+      "input_item_id": "ITEM_3_011",
+      "output_item_id": "ITEM_4_006",
+      "output_name": "船夫的修練書",
+      "exchange_type": "3段→4段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_HIGHZ_001",
+      "input_item_id": "ITEM_5_010",
+      "output_item_id": "ITEM_6_016",
+      "output_name": "暗影裝飾鏡子",
+      "exchange_type": "5段→6段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_S_003",
+      "input_item_id": "ITEM_2_006",
+      "output_item_id": "ITEM_3_008",
+      "output_name": "海賊的補給箱",
+      "exchange_type": "2段→3段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_W_004",
+      "input_item_id": "ITEM_4_006",
+      "output_item_id": "ITEM_5_010",
+      "output_name": "弄蝶標本",
+      "exchange_type": "4段→5段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_D_002",
+      "input_item_id": "ITEM_2_011",
+      "output_item_id": "ITEM_3_014",
+      "output_name": "鐘乳石碎片",
+      "exchange_type": "2段→3段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_C_001",
+      "input_item_id": "ITEM_4_014",
+      "output_item_id": "ITEM_5_003",
+      "output_name": "白色幼蟲標本",
+      "exchange_type": "4段→5段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_A_005",
+      "input_item_id": "ITEM_5_014",
+      "output_item_id": "ITEM_MISC_0049",
+      "output_name": "華麗的珍珠結晶",
+      "exchange_type": "5段→特殊交換"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_X_007",
+      "input_item_id": "ITEM_1_010",
+      "output_item_id": "ITEM_MISC_0010",
+      "output_name": "遺失的貿易品箱子",
+      "exchange_type": "1段→特殊交換"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_F_006",
+      "input_item_id": "ITEM_6_021",
+      "output_item_id": "ITEM_7_016",
+      "output_name": "艾達納王位的紀錄書",
+      "exchange_type": "6段→7段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_Z_003",
+      "input_item_id": "ITEM_2_008",
+      "output_item_id": "ITEM_3_001",
+      "output_name": "陳舊指令書",
+      "exchange_type": "2段→3段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_V_002",
+      "input_item_id": "ITEM_3_005",
+      "output_item_id": "ITEM_4_002",
+      "output_name": "裝有金幣的破舊箱子",
+      "exchange_type": "3段→4段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_Q_003",
+      "input_item_id": "ITEM_1_014",
+      "output_item_id": "ITEM_2_010",
+      "output_name": "海賊金幣",
+      "exchange_type": "1段→2段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_REMOTE_007",
+      "input_item_id": "ITEM_4_007",
+      "output_item_id": "ITEM_MISC_0055",
+      "output_name": "[大洋]海獺族釣鉤",
+      "exchange_type": "待判定"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_Z_004",
+      "input_item_id": "ITEM_2_005",
+      "output_item_id": "ITEM_3_005",
+      "output_name": "很久以前的沙漏",
+      "exchange_type": "2段→3段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_Q_001",
+      "input_item_id": "ITEM_1_007",
+      "output_item_id": "ITEM_2_011",
+      "output_name": "納勒柏海參",
+      "exchange_type": "1段→2段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_R_003",
+      "input_item_id": "ITEM_1_004",
+      "output_item_id": "ITEM_2_008",
+      "output_name": "海賊船桅杆",
+      "exchange_type": "1段→2段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_Z_003",
+      "input_item_id": "ITEM_2_007",
+      "output_item_id": "ITEM_3_009",
+      "output_name": "洛托斯網子",
+      "exchange_type": "2段→3段"
+    },
+    "confirmed_as": "核心資料正確"
+  },
+  {
+    "signature": {
+      "point_id": "POINT_A_003",
+      "input_item_id": "ITEM_MISC_0028",
+      "output_item_id": "ITEM_1_007",
+      "output_name": "巨大魚骨",
+      "exchange_type": "一般材料→1段"
+    },
+    "confirmed_as": "核心資料正確"
+  }
+]

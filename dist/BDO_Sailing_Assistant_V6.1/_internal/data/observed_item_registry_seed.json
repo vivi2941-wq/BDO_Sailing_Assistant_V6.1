@@ -1,0 +1,1223 @@
+{
+  "format": "BDO_PUBLIC_ITEM_REGISTRY_V1",
+  "next_misc_no": 1,
+  "items": [
+    {
+      "item_id": "ITEM_PUBLIC_0004",
+      "names": [
+        "亞麻線"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "亞麻線",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0005",
+      "names": [
+        "烤鳥肉"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "烤鳥肉",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0008",
+      "names": [
+        "奧基魯阿之花"
+      ],
+      "kind": "特殊交換品",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "奧基魯阿之花",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0009",
+      "names": [
+        "椰子果"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "椰子果",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0010",
+      "names": [
+        "遺失的貿易品箱子"
+      ],
+      "kind": "特殊交換品",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "遺失的貿易品箱子",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0011",
+      "names": [
+        "波浪黑石"
+      ],
+      "kind": "特殊交換品",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "波浪黑石",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0012",
+      "names": [
+        "烏鴉硬幣"
+      ],
+      "kind": "特殊交換品",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "烏鴉硬幣",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0015",
+      "names": [
+        "椰棗"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "椰棗",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0016",
+      "names": [
+        "醋"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "醋",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0017",
+      "names": [
+        "深藍色鑄塊"
+      ],
+      "kind": "特殊交換品",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "深藍色鑄塊",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0018",
+      "names": [
+        "裂的粉末",
+        "龜裂的粉末"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "龜裂的粉末",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0023",
+      "names": [
+        "虎肉"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "虎肉",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0024",
+      "names": [
+        "棉布"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "棉布",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0025",
+      "names": [
+        "椰子樹合板"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "椰子樹合板",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0028",
+      "names": [
+        "最高級熊皮"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "最高級熊皮",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0029",
+      "names": [
+        "晶瑩的黑曜石",
+        "晶莹的黑曜石"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "晶瑩的黑曜石",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0030",
+      "names": [
+        "高級厚毛皮"
+      ],
+      "kind": "一般材料",
+      "stage": "1",
+      "identity_status": "公共已確認",
+      "confirmed_name": "高級厚毛皮",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0031",
+      "names": [
+        "羊毛品",
+        "羊毛製品"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "羊毛製品",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0032",
+      "names": [
+        "肉桂"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "肉桂",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0034",
+      "names": [
+        "八角"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "八角",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0036",
+      "names": [
+        "青铜瑰",
+        "青銅鑄塊"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "青銅鑄塊",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0039",
+      "names": [
+        "環節樹合板"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "環節樹合板",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0042",
+      "names": [
+        "酷斯海賊團的遺物(協商下級)"
+      ],
+      "kind": "未分類",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "酷斯海賊團的遺物(協商下級)",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0043",
+      "names": [
+        "蘆薈"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "蘆薈",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0049",
+      "names": [
+        "華麗的珍珠結晶"
+      ],
+      "kind": "特殊交換品",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "華麗的珍珠結晶",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0055",
+      "names": [
+        "[大洋]海獺族釣鉤",
+        "[大洋]海獭族钓"
+      ],
+      "kind": "未分類",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "[大洋]海獺族釣鉤",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0056",
+      "names": [
+        "蘊含深海記憶的黏膠",
+        "含深海記憶的黏",
+        "蕴含深海記憶的黏"
+      ],
+      "kind": "未分類",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "蘊含深海記憶的黏膠",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0064",
+      "names": [
+        "鐵鑄塊",
+        "鐵塊"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "鐵鑄塊",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0065",
+      "names": [
+        "大洋五彩珊瑚飾品",
+        "[大洋]五彩珊瑚飾品"
+      ],
+      "kind": "特殊交換品",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "[大洋]五彩珊瑚飾品",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0066",
+      "names": [
+        "堅硬的皮革",
+        "墅硬的皮革",
+        "硬的皮革"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "堅硬的皮革",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0067",
+      "names": [
+        "白樺樹合板",
+        "白樹合板"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "白樺樹合板",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0068",
+      "names": [
+        "華麗的岩鹽鑄塊",
+        "華麗的岩鹽瑰",
+        "華麗的岩鹽鑄瑰",
+        "華麗的岩鹽塊",
+        "華麗的岩瑰",
+        "華麗的岩塊"
+      ],
+      "kind": "特殊交換品",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "華麗的岩鹽鑄塊",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0069",
+      "names": [
+        "岩鹽鑄塊"
+      ],
+      "kind": "未分類",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "岩鹽鑄塊",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0070",
+      "names": [
+        "錫鑄塊",
+        "鍚鑄塊",
+        "锡塊",
+        "锡瑰"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "錫鑄塊",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0071",
+      "names": [
+        "[大洋]鑄鐵修理工具",
+        "[大洋]鐵修理工具"
+      ],
+      "kind": "特殊交換品",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "[大洋]鑄鐵修理工具",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0072",
+      "names": [
+        "絲綢"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "絲綢",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0073",
+      "names": [
+        "大洋堅固玄鐵",
+        "大洋固玄鐵"
+      ],
+      "kind": "未分類",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "大洋堅固玄鐵",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0074",
+      "names": [
+        "堅韌的皮革"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "堅韌的皮革",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0075",
+      "names": [
+        "大洋觀測報告書",
+        "[大洋]觀測報告書"
+      ],
+      "kind": "特殊交換品",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "[大洋]觀測報告書",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0082",
+      "names": [
+        "鉛鑄塊"
+      ],
+      "kind": "未分類",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "鉛鑄塊",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0083",
+      "names": [
+        "綠鑄塊",
+        "綠塊",
+        "绿塊"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "綠鑄塊",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0097",
+      "names": [
+        "島樹沉積合板",
+        "島樹沉合板"
+      ],
+      "kind": "未分類",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "島樹沉積合板",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0102",
+      "names": [
+        "鋅鑄塊"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "鋅鑄塊",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0109",
+      "names": [
+        "高級堅硬的皮革",
+        "高級硬的皮革"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "高級堅硬的皮革",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0110",
+      "names": [
+        "賢者的血液",
+        "只者的血液"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "賢者的血液",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0112",
+      "names": [
+        "發光的深藍色鑄塊",
+        "發光的深藍色瑰"
+      ],
+      "kind": "未分類",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "發光的深藍色鑄塊",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0113",
+      "names": [
+        "苔蘚樹合板",
+        "苔藓樹合板"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "苔蘚樹合板",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0119",
+      "names": [
+        "精巧的珍珠項鍊",
+        "精巧的珍珠頂"
+      ],
+      "kind": "未分類",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "精巧的珍珠項鍊",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0120",
+      "names": [
+        "銅鑄塊"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "銅鑄塊",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0121",
+      "names": [
+        "厚毛皮"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "厚毛皮",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0136",
+      "names": [
+        "純粹的珍珠結晶"
+      ],
+      "kind": "特殊交換品",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "純粹的珍珠結晶",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0141",
+      "names": [
+        "强化的島樹沉積合板",
+        "强化的島樹沉合板"
+      ],
+      "kind": "未分類",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "强化的島樹沉積合板",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0142",
+      "names": [
+        "肉豆蔻"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "肉豆蔻",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0143",
+      "names": [
+        "剁碎的鳥肉"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "剁碎的鳥肉",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0144",
+      "names": [
+        "罪人的血液"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "罪人的血液",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0145",
+      "names": [
+        "刺樹合板"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "刺樹合板",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0146",
+      "names": [
+        "[大洋]酷斯海賊團的日記",
+        "[大洋]酷斯海贼團的日記"
+      ],
+      "kind": "特殊交換品",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "[大洋]酷斯海賊團的日記",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0147",
+      "names": [
+        "黑水晶裝飾手鐲",
+        "黑水晶裝饰手镯",
+        "黑水晶裝饰手"
+      ],
+      "kind": "特殊交換品",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "黑水晶裝飾手鐲",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0148",
+      "names": [
+        "冷杉樹合板"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "冷杉樹合板",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0149",
+      "names": [
+        "加工煤炭"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "加工煤炭",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0150",
+      "names": [
+        "神獸的血液"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "神獸的血液",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0151",
+      "names": [
+        "神秘的粉末"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "神秘的粉末",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0152",
+      "names": [
+        "精靈的葉子"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "精靈的葉子",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0153",
+      "names": [
+        "羊毛"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "羊毛",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0154",
+      "names": [
+        "血紅樹木節"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "血紅樹木節",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0155",
+      "names": [
+        "開心果"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "開心果",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0156",
+      "names": [
+        "麻布"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "麻布",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0157",
+      "names": [
+        "仙人掌皮"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "仙人掌皮",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0158",
+      "names": [
+        "側柏合板",
+        "侧柏合板"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "側柏合板",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0159",
+      "names": [
+        "南瓜"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "南瓜",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0160",
+      "names": [
+        "卡普拉斯樹合板"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "卡普拉斯樹合板",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0161",
+      "names": [
+        "古木樹皮"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "古木樹皮",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0162",
+      "names": [
+        "啤酒"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "啤酒",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0163",
+      "names": [
+        "大地的粉"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "大地的粉",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0164",
+      "names": [
+        "扁柏樹合板"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "扁柏樹合板",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0165",
+      "names": [
+        "接骨木合板"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "接骨木合板",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0166",
+      "names": [
+        "普里卡"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "普里卡",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0167",
+      "names": [
+        "晶瑩的翡翠",
+        "晶莹的翡翠"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "晶瑩的翡翠",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0168",
+      "names": [
+        "最高級野猪皮"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "最高級野猪皮",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0169",
+      "names": [
+        "杉樹合板"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "杉樹合板",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0170",
+      "names": [
+        "松樹合板"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "松樹合板",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0171",
+      "names": [
+        "柔软的皮革"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "柔软的皮革",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0172",
+      "names": [
+        "楓樹合板",
+        "樹合板"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "楓樹合板",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0173",
+      "names": [
+        "歲月粉末",
+        "崴月粉末"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "歲月粉末",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0174",
+      "names": [
+        "毛線"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "毛線",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0175",
+      "names": [
+        "清液體試藥"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "清液體試藥",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0176",
+      "names": [
+        "火焰的粉"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "火焰的粉",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0177",
+      "names": [
+        "火角"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "火角",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0178",
+      "names": [
+        "無花果"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "無花果",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0179",
+      "names": [
+        "純粹的暗礁碎片"
+      ],
+      "kind": "特殊交換品",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "純粹的暗礁碎片",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0180",
+      "names": [
+        "純粹的粉試藥"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "純粹的粉試藥",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0181",
+      "names": [
+        "絲線"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "絲線",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0182",
+      "names": [
+        "翡翠原石"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "翡翠原石",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0183",
+      "names": [
+        "華麗的羽毛"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "華麗的羽毛",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0184",
+      "names": [
+        "輕盈的羽毛"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "輕盈的羽毛",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0185",
+      "names": [
+        "酒的精髓"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "酒的精髓",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0186",
+      "names": [
+        "閃亮的粉末"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "閃亮的粉末",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0187",
+      "names": [
+        "雜技藝人的血液"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "雜技藝人的血液",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0188",
+      "names": [
+        "雞肉"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "雞肉",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0189",
+      "names": [
+        "食用蜂蜜"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "食用蜂蜜",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0190",
+      "names": [
+        "高級堅韌的皮革",
+        "高級的皮革"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "高級堅韌的皮革",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0191",
+      "names": [
+        "高級柔软的皮革"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "高級柔软的皮革",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0192",
+      "names": [
+        "高級華麗的羽毛"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "高級華麗的羽毛",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0193",
+      "names": [
+        "高級輕盈的羽毛"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "高級輕盈的羽毛",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0194",
+      "names": [
+        "黃金槳帆船像"
+      ],
+      "kind": "特殊交換品",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "黃金槳帆船像",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0195",
+      "names": [
+        "黃銅鑄塊"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "黃銅鑄塊",
+      "evidence_count": 0
+    },
+    {
+      "item_id": "ITEM_PUBLIC_0196",
+      "names": [
+        "黑暗粉末"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "identity_status": "公共已確認",
+      "confirmed_name": "黑暗粉末",
+      "evidence_count": 0
+    }
+  ]
+}

@@ -1,0 +1,1370 @@
+{
+  "items": [
+    {
+      "id": "ITEM_1_001",
+      "stage": 1,
+      "name": "木筏雕刻品",
+      "weight": 100,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_1_002",
+      "stage": 1,
+      "name": "筋道的窩斑鰶生魚片",
+      "weight": 100,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_1_003",
+      "stage": 1,
+      "name": "剌蓮花種子袋",
+      "weight": 100,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_1_004",
+      "stage": 1,
+      "name": "乾燥藍玫瑰",
+      "weight": 100,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_1_005",
+      "stage": 1,
+      "name": "肥沃的土",
+      "weight": 100,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_1_006",
+      "stage": 1,
+      "name": "金色沙子",
+      "weight": 100,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_1_007",
+      "stage": 1,
+      "name": "巨大魚骨",
+      "weight": 100,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_1_008",
+      "stage": 1,
+      "name": "海賊的火藥",
+      "weight": 100,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_1_009",
+      "stage": 1,
+      "name": "野豌豆花種子袋",
+      "weight": 100,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_1_010",
+      "stage": 1,
+      "name": "未知的古代壁畫",
+      "weight": 100,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_1_011",
+      "stage": 1,
+      "name": "古代罈子碎片",
+      "weight": 100,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_1_012",
+      "stage": 1,
+      "name": "櫻桃樹種子袋",
+      "weight": 100,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_1_013",
+      "stage": 1,
+      "name": "髒兮兮的海鷗雕像",
+      "weight": 100,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_1_014",
+      "stage": 1,
+      "name": "海上戰鬥糧食",
+      "weight": 100,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_2_001",
+      "stage": 2,
+      "name": "五色珠",
+      "weight": 400,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_2_002",
+      "stage": 2,
+      "name": "精製飲用水",
+      "weight": 400,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_2_003",
+      "stage": 2,
+      "name": "寬大的石板",
+      "weight": 400,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_2_004",
+      "stage": 2,
+      "name": "平衡石塔",
+      "weight": 400,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_2_005",
+      "stage": 2,
+      "name": "克羅恩城金幣",
+      "weight": 400,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_2_006",
+      "stage": 2,
+      "name": "最高級牡蠣箱子",
+      "weight": 400,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_2_007",
+      "stage": 2,
+      "name": "島村便當",
+      "weight": 400,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_2_008",
+      "stage": 2,
+      "name": "海賊船桅杆",
+      "weight": 400,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_2_009",
+      "stage": 2,
+      "name": "海膽剌",
+      "weight": 400,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_2_010",
+      "stage": 2,
+      "name": "海賊金幣",
+      "weight": 400,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_2_011",
+      "stage": 2,
+      "name": "納勒柏海參",
+      "weight": 400,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_2_012",
+      "stage": 2,
+      "name": "海洋救援品",
+      "weight": 400,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_2_013",
+      "stage": 2,
+      "name": "寄居蟹殼裝飾",
+      "weight": 400,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_2_014",
+      "stage": 2,
+      "name": "怪生物觸鬚",
+      "weight": 400,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_3_001",
+      "stage": 3,
+      "name": "陳舊指令書",
+      "weight": 900,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_3_002",
+      "stage": 3,
+      "name": "料理專用半月刀",
+      "weight": 900,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_3_003",
+      "stage": 3,
+      "name": "黃鼠狼皮外套",
+      "weight": 900,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_3_004",
+      "stage": 3,
+      "name": "骷髏圖案地毯",
+      "weight": 900,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_3_005",
+      "stage": 3,
+      "name": "很久以前的沙漏",
+      "weight": 900,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_3_006",
+      "stage": 3,
+      "name": "骷髏裝飾茶杯",
+      "weight": 900,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_3_007",
+      "stage": 3,
+      "name": "稀有藥草堆",
+      "weight": 900,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_3_008",
+      "stage": 3,
+      "name": "海賊的補給箱",
+      "weight": 900,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_3_009",
+      "stage": 3,
+      "name": "洛托斯網子",
+      "weight": 900,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_3_010",
+      "stage": 3,
+      "name": "偵察兵望遠鏡",
+      "weight": 900,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_3_011",
+      "stage": 3,
+      "name": "濃稠的怪生物血液",
+      "weight": 900,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_3_012",
+      "stage": 3,
+      "name": "藍光蠟燭堆",
+      "weight": 900,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_3_013",
+      "stage": 3,
+      "name": "撕破的海賊藏寶圖",
+      "weight": 900,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_3_014",
+      "stage": 3,
+      "name": "鐘乳石碎片",
+      "weight": 900,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_4_001",
+      "stage": 4,
+      "name": "貝殼裝飾",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_4_002",
+      "stage": 4,
+      "name": "裝有金幣的破舊箱子",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_4_003",
+      "stage": 4,
+      "name": "青綠鹽塊",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_4_004",
+      "stage": 4,
+      "name": "偷竊的海賊團短刀",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_4_005",
+      "stage": 4,
+      "name": "五彩線團",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_4_006",
+      "stage": 4,
+      "name": "船夫的修練書",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_4_007",
+      "stage": 4,
+      "name": "紫水晶碎片",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_4_008",
+      "stage": 4,
+      "name": "凝固的熔岩液",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_4_009",
+      "stage": 4,
+      "name": "海上騎士團的頭盔",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_4_010",
+      "stage": 4,
+      "name": "被截斷脖頸的龍雕像",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_4_011",
+      "stage": 4,
+      "name": "青銅燭臺",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_4_012",
+      "stage": 4,
+      "name": "海上騎士團的槍",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_4_013",
+      "stage": 4,
+      "name": "萬靈藥",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_4_014",
+      "stage": 4,
+      "name": "海賊的鑰匙",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_5_001",
+      "stage": 5,
+      "name": "八角紋樣保管箱",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_5_002",
+      "stage": 5,
+      "name": "高級紋樣布料",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_5_003",
+      "stage": 5,
+      "name": "白色幼蟲標本",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_5_004",
+      "stage": 5,
+      "name": "古代人肖像畫",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_5_005",
+      "stage": 5,
+      "name": "來歷不明的岩石",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_5_006",
+      "stage": 5,
+      "name": "37年藥酒",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_5_007",
+      "stage": 5,
+      "name": "金色魚鱗",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_5_008",
+      "stage": 5,
+      "name": "褪色的黃金龍雕像",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_5_009",
+      "stage": 5,
+      "name": "最高級黃金燭臺",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_5_010",
+      "stage": 5,
+      "name": "弄蝶標本",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_5_011",
+      "stage": 5,
+      "name": "雕像之淚",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_5_012",
+      "stage": 5,
+      "name": "藍光石英",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_5_013",
+      "stage": 5,
+      "name": "102年黃金草",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_5_014",
+      "stage": 5,
+      "name": "青春秘藥",
+      "weight": 1000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_6_001",
+      "stage": 6,
+      "name": "瓦倫西亞沙塵暴盾牌",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_6_002",
+      "stage": 6,
+      "name": "瓦倫西亞沙漠寶劍",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_6_003",
+      "stage": 6,
+      "name": "華麗的駱駝皮",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_6_004",
+      "stage": 6,
+      "name": "黃金沙漠的沙子戒指",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_6_005",
+      "stage": 6,
+      "name": "最高級椰子糖漿",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_6_006",
+      "stage": 6,
+      "name": "阿利赫恣傳統茶",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_6_007",
+      "stage": 6,
+      "name": "阿利赫恣燈塔雕像",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_6_008",
+      "stage": 6,
+      "name": "金色仙人掌花束",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_6_009",
+      "stage": 6,
+      "name": "森林妖精香水瓶",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_6_010",
+      "stage": 6,
+      "name": "卡瑪希爾比亞雕像",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_6_011",
+      "stage": 6,
+      "name": "月光水晶提燈",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_6_012",
+      "stage": 6,
+      "name": "銀色樹木苔蘚裝飾",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_6_013",
+      "stage": 6,
+      "name": "黑色玫瑰花束",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_6_014",
+      "stage": 6,
+      "name": "月光水晶碎片",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_6_015",
+      "stage": 6,
+      "name": "月光暗影熟成的葡萄酒",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_6_016",
+      "stage": 6,
+      "name": "暗影裝飾鏡子",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_6_017",
+      "stage": 6,
+      "name": "竹子汁液箱子",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_6_018",
+      "stage": 6,
+      "name": "南浦特產柿子箱子",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_6_019",
+      "stage": 6,
+      "name": "高級墨香盒",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_6_020",
+      "stage": 6,
+      "name": "大路村覆盆莓箱子",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_6_021",
+      "stage": 6,
+      "name": "最高級青華白瓷箱子",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_6_022",
+      "stage": 6,
+      "name": "最高級紗帽箱子",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_6_023",
+      "stage": 6,
+      "name": "黃銅器皿箱子",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_6_024",
+      "stage": 6,
+      "name": "鋒利的紅花刀箱子",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_7_001",
+      "stage": 7,
+      "name": "最高級海地爾產葡萄酒",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_7_002",
+      "stage": 7,
+      "name": "金色小麥粉袋",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_7_003",
+      "stage": 7,
+      "name": "有機蜂蜜箱子",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_7_004",
+      "stage": 7,
+      "name": "巴雷諾斯傳統錨裝飾",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_7_005",
+      "stage": 7,
+      "name": "黃金老鷹胸針",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_7_006",
+      "stage": 7,
+      "name": "卡爾佩恩騎士團的戰鬥教本",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_7_007",
+      "stage": 7,
+      "name": "卡爾佩恩黃金裝飾燭台",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_7_008",
+      "stage": 7,
+      "name": "卡爾佩恩匠人的珍珠項鍊",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_7_009",
+      "stage": 7,
+      "name": "薩扇軍需品箱子",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_7_010",
+      "stage": 7,
+      "name": "石尾紅蘿蔔健康餐箱子",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_7_011",
+      "stage": 7,
+      "name": "奧馬勒熔岩粉末",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_7_012",
+      "stage": 7,
+      "name": "塔利波咒術缸子",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_7_013",
+      "stage": 7,
+      "name": "露瑟卡荊棘花束",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_7_014",
+      "stage": 7,
+      "name": "堅硬的卡普拉斯木材",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_7_015",
+      "stage": 7,
+      "name": "哈金扎最高級香水",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_7_016",
+      "stage": 7,
+      "name": "艾達納王位的紀錄書",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_7_017",
+      "stage": 7,
+      "name": "匠人的貝殼項鍊",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_7_018",
+      "stage": 7,
+      "name": "巴雷諾斯航海士的望遠鏡",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_7_019",
+      "stage": 7,
+      "name": "巴雷諾斯鯨魚雕像",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_7_020",
+      "stage": 7,
+      "name": "巴雷諾斯雪花鹽",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_7_021",
+      "stage": 7,
+      "name": "巴雷諾斯星光鹽",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_7_022",
+      "stage": 7,
+      "name": "巴雷諾斯文物碎片",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_7_023",
+      "stage": 7,
+      "name": "巴雷諾斯彩虹珊瑚",
+      "weight": 2000,
+      "status": "啟用"
+    },
+    {
+      "id": "ITEM_7_024",
+      "stage": 7,
+      "name": "彩虹色海原石碎片",
+      "weight": 2000,
+      "status": "啟用"
+    }
+  ],
+  "points": [
+    {
+      "id": "POINT_Z_001",
+      "name": "拉麥達",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_Z_002",
+      "name": "西歐尼",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_Z_003",
+      "name": "今貝雷",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_Z_004",
+      "name": "莫德里",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_Z_005",
+      "name": "巴艾加",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_Z_006",
+      "name": "泰亞莫",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_X_001",
+      "name": "戴特恩",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_X_002",
+      "name": "奈特尼恩",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_X_003",
+      "name": "德恩特",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_X_004",
+      "name": "奧波恩",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_X_005",
+      "name": "艾波迪恩",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_X_006",
+      "name": "阿爾波雷斯",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_X_007",
+      "name": "巴拉培斯",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_X_008",
+      "name": "藍迪斯",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_X_009",
+      "name": "西路卡",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_X_010",
+      "name": "艾裴莉雅崗哨",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_Q_001",
+      "name": "泰絲特",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_Q_002",
+      "name": "阿爾麥",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_Q_003",
+      "name": "庫伊特",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_Q_004",
+      "name": "皮尼斯",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_Q_005",
+      "name": "阿利塔",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_A_001",
+      "name": "里斯茲",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_A_002",
+      "name": "納勒柏",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_A_003",
+      "name": "斯泰藍",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_A_004",
+      "name": "露露波",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_A_005",
+      "name": "馬路卡",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_W_001",
+      "name": "塔蘇",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_W_002",
+      "name": "雷瑪",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_W_003",
+      "name": "土路",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_W_004",
+      "name": "奧魯普斯",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_S_001",
+      "name": "茵巴德恩",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_S_002",
+      "name": "巴貝茲",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_S_003",
+      "name": "洋朱",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_S_004",
+      "name": "瑪魯雷斯",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_S_005",
+      "name": "馬里貝諾",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_S_006",
+      "name": "艾貝特",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_S_007",
+      "name": "杜胡",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_S_008",
+      "name": "路易巴斯",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_S_009",
+      "name": "奧爾比亞海岸",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_E_001",
+      "name": "拉西德",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_E_002",
+      "name": "阿爾納哈",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_E_003",
+      "name": "阿茲魯",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_E_004",
+      "name": "伊利亞",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_D_001",
+      "name": "巴雷米",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_D_002",
+      "name": "維亦塔",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_D_003",
+      "name": "帕拉塔",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_D_004",
+      "name": "肯貝拉",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_D_005",
+      "name": "阿拉吉爾",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_D_006",
+      "name": "艾普戴倫",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_D_007",
+      "name": "貝盧瓦",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_D_008",
+      "name": "歐斯特拉",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_D_009",
+      "name": "塔拉穆拉",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_C_001",
+      "name": "普價拉",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_C_002",
+      "name": "戴林哈特",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_C_003",
+      "name": "珀爾巴拉",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_C_004",
+      "name": "薩扇營地",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_V_001",
+      "name": "索寇塔",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_V_002",
+      "name": "里埃",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_R_001",
+      "name": "庭貝拉",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_R_002",
+      "name": "雷拉歐",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_R_003",
+      "name": "普勒泰南",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_R_004",
+      "name": "莎莎",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_R_005",
+      "name": "羅茲班",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_F_001",
+      "name": "寶雅",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_F_002",
+      "name": "奧利沙",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_F_003",
+      "name": "堤葛黎史",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_F_004",
+      "name": "薛納",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_F_005",
+      "name": "艾史帕",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_F_006",
+      "name": "聖殿海岸",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_G_001",
+      "name": "赫爾馬",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_G_002",
+      "name": "卡修麻",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_G_003",
+      "name": "德寇",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_HIGHZ_001",
+      "name": "深夜港口",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_HIGHZ_002",
+      "name": "格蘭迪哈",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_HIGHG_001",
+      "name": "阿利赫恣村莊",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_HIGHG_002",
+      "name": "哈科班",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_ZONE_001",
+      "name": "向陽",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_ZONE_002",
+      "name": "杜鵑",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_REMOTE_001",
+      "name": "遇難的哈蘭運輸船",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_REMOTE_002",
+      "name": "漂下來的未完成船舶",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_REMOTE_003",
+      "name": "朗提尼亞戰鬥船舶",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_REMOTE_004",
+      "name": "法基奧戰鬥竹筏",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_REMOTE_005",
+      "name": "烏鴉商團的船舶",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_REMOTE_006",
+      "name": "遇難的古代遺跡運",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_REMOTE_007",
+      "name": "蘇爾拉斯齊古的海",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_REMOTE_008",
+      "name": "遇難的裏克昆的船",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_REMOTE_009",
+      "name": "遇難的酷斯海賊船",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_REMOTE_010",
+      "name": "遇難的海運船",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_REMOTE_011",
+      "name": "殘月公會的重帆船",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_REMOTE_012",
+      "name": "流浪商人的船",
+      "status": "啟用"
+    },
+    {
+      "id": "POINT_REMOTE_013",
+      "name": "烏鴉巢",
+      "status": "啟用"
+    }
+  ],
+  "aliases": [
+    {
+      "object_type": "品項",
+      "id": "ITEM_4_013",
+      "current_name": "萬靈藥",
+      "alias": "靈丹",
+      "alias_type": "玩家縮寫",
+      "source": "玩家長期使用",
+      "note": "舊官方完整名稱目前未知，不亂補"
+    },
+    {
+      "object_type": "點位",
+      "id": "POINT_REMOTE_003",
+      "current_name": "朗提尼亞戰鬥船舶",
+      "alias": "朗提尼亞戰鬥竹筏",
+      "alias_type": "名稱變體／舊譯",
+      "source": "2026-08-26真實OCR",
+      "note": "視為同一點位"
+    },
+    {
+      "object_type": "點位",
+      "id": "POINT_REMOTE_010",
+      "current_name": "遇難的海運船",
+      "alias": "遇難的海軍船",
+      "alias_type": "名稱變體／翻譯差異",
+      "source": "2026-08-26真實OCR",
+      "note": "視為同一點位"
+    },
+    {
+      "object_type": "點位",
+      "id": "POINT_F_006",
+      "current_name": "聖殿海岸",
+      "alias": "聖殿海岸偵查地",
+      "alias_type": "顯示名稱變體",
+      "source": "2026-08-26真實OCR",
+      "note": "同一既有站點"
+    },
+    {
+      "object_type": "點位",
+      "id": "POINT_Q_003",
+      "current_name": "庫伊特",
+      "alias": "庫伊特群島",
+      "alias_type": "顯示名稱變體",
+      "source": "2026-08-26真實OCR",
+      "note": "同一既有點位"
+    },
+    {
+      "object_type": "點位",
+      "id": "POINT_ZONE_002",
+      "current_name": "杜鵑",
+      "alias": "杜鵑渡口",
+      "alias_type": "顯示名稱變體",
+      "source": "2026-08-26真實OCR",
+      "note": "同一既有站點"
+    },
+    {
+      "object_type": "品項",
+      "id": "ITEM_2_009",
+      "current_name": "海膽剌",
+      "alias": "海膽刺",
+      "alias_type": "字形別名",
+      "source": "2026-08-26真實OCR",
+      "note": "剌／刺字形差異；同一2階品項"
+    },
+    {
+      "object_type": "點位",
+      "id": "POINT_X_007",
+      "current_name": "巴拉培斯",
+      "alias": "巴拉堷斯",
+      "alias_type": "玩家歷史錯字",
+      "source": "玩家確認",
+      "note": "多年舊表手打錯字；保留舊資料相容性"
+    },
+    {
+      "object_type": "點位",
+      "id": "POINT_REMOTE_013",
+      "current_name": "烏鴉巢",
+      "alias": "扁鸦巢",
+      "alias_type": "OCR常見誤讀",
+      "source": "2026-09-09真實OCR",
+      "note": "烏常被誤讀為扁；視為烏鴉巢"
+    }
+  ]
+}

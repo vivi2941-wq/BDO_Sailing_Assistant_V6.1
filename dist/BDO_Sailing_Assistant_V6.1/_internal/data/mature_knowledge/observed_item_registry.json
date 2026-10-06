@@ -1,0 +1,1679 @@
+{
+  "items": [
+    {
+      "item_id": "ITEM_MISC_0001",
+      "names": [
+        "锡塊"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-29_1378084763.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 34
+    },
+    {
+      "item_id": "ITEM_MISC_0002",
+      "names": [
+        "[大洋]酷斯海賊團的日記"
+      ],
+      "kind": "特殊交換品",
+      "first_seen_source": "2026-08-29_1378084763.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 45
+    },
+    {
+      "item_id": "ITEM_MISC_0003",
+      "names": [
+        "[大洋]鐵修理工具"
+      ],
+      "kind": "特殊交換品",
+      "first_seen_source": "2026-08-29_1378084763.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 63
+    },
+    {
+      "item_id": "ITEM_MISC_0004",
+      "names": [
+        "亞麻線"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-29_1378089817.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 39,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "亞麻線",
+      "confirmed_at": "2026-09-05T12:51:12"
+    },
+    {
+      "item_id": "ITEM_MISC_0005",
+      "names": [
+        "烤鳥肉"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-29_1378089817.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 44,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "烤鳥肉",
+      "confirmed_at": "2026-08-31T21:11:19"
+    },
+    {
+      "item_id": "ITEM_MISC_0006",
+      "names": [
+        "精靈的葉子"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-29_1378089817.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 33
+    },
+    {
+      "item_id": "ITEM_MISC_0007",
+      "names": [
+        "絲稠"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-29_1378089817.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 40
+    },
+    {
+      "item_id": "ITEM_MISC_0008",
+      "names": [
+        "奧基魯阿之花"
+      ],
+      "kind": "特殊交換品",
+      "first_seen_source": "2026-08-29_1378089817.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 202
+    },
+    {
+      "item_id": "ITEM_MISC_0009",
+      "names": [
+        "椰子果"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-29_1378097992.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 113,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "椰子果",
+      "confirmed_at": "2026-09-05T12:44:49"
+    },
+    {
+      "item_id": "ITEM_MISC_0010",
+      "names": [
+        "遺失的貿易品箱子"
+      ],
+      "kind": "特殊交換品",
+      "first_seen_source": "2026-08-29_1378097992.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 277,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "遺失的貿易品箱子",
+      "confirmed_at": "2026-09-05T12:18:17"
+    },
+    {
+      "item_id": "ITEM_MISC_0011",
+      "names": [
+        "波浪黑石"
+      ],
+      "kind": "特殊交換品",
+      "first_seen_source": "2026-08-29_1378105883.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 193
+    },
+    {
+      "item_id": "ITEM_MISC_0012",
+      "names": [
+        "烏鴉硬幣"
+      ],
+      "kind": "特殊交換品",
+      "first_seen_source": "2026-08-29_1378105883.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 2127,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "烏鴉硬幣",
+      "confirmed_at": "2026-09-05T12:22:32"
+    },
+    {
+      "item_id": "ITEM_MISC_0013",
+      "names": [
+        "大洋固玄鐵"
+      ],
+      "kind": "未分類",
+      "first_seen_source": "2026-08-29_1378110737.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 42
+    },
+    {
+      "item_id": "ITEM_MISC_0014",
+      "names": [
+        "的皮革"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-29_1378110737.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 42
+    },
+    {
+      "item_id": "ITEM_MISC_0015",
+      "names": [
+        "椰",
+        "椰棗"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-29_1378110737.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 35,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "椰棗",
+      "confirmed_at": "2026-09-05T22:01:14"
+    },
+    {
+      "item_id": "ITEM_MISC_0016",
+      "names": [
+        "醋"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-29_1378116142.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 46,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "醋",
+      "confirmed_at": "2026-08-31T21:10:39"
+    },
+    {
+      "item_id": "ITEM_MISC_0017",
+      "names": [
+        "深藍色鑄塊"
+      ],
+      "kind": "特殊交換品",
+      "first_seen_source": "2026-08-29_1378116142.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 37
+    },
+    {
+      "item_id": "ITEM_MISC_0018",
+      "names": [
+        "裂的粉末",
+        "龜裂的粉末"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-29_1378124217.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 33,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "龜裂的粉末",
+      "confirmed_at": "2026-09-02T15:28:03"
+    },
+    {
+      "item_id": "ITEM_MISC_0019",
+      "names": [
+        "六涉力：雷要061"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-29_1378144053.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 2
+    },
+    {
+      "item_id": "ITEM_MISC_0020",
+      "names": [
+        "β.0"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-29_1378144053.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 4
+    },
+    {
+      "item_id": "ITEM_MISC_0021",
+      "names": [
+        "充海力：重要1006"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-29_1378144053.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 2
+    },
+    {
+      "item_id": "ITEM_MISC_0022",
+      "names": [
+        "蘆o"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-31_1592211091.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 38
+    },
+    {
+      "item_id": "ITEM_MISC_0023",
+      "names": [
+        "虎肉"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-31_1592211091.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 40,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "虎肉",
+      "confirmed_at": "2026-08-31T21:04:00"
+    },
+    {
+      "item_id": "ITEM_MISC_0024",
+      "names": [
+        "棉布"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-31_1592214761.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 49,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "棉布",
+      "confirmed_at": "2026-09-04T19:25:35"
+    },
+    {
+      "item_id": "ITEM_MISC_0025",
+      "names": [
+        "椰子樹合板"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-31_1592214761.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 41,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "椰子樹合板",
+      "confirmed_at": "2026-08-31T21:02:21"
+    },
+    {
+      "item_id": "ITEM_MISC_0026",
+      "names": [
+        "加工煤炭"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-31_1592214761.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 39
+    },
+    {
+      "item_id": "ITEM_MISC_0027",
+      "names": [
+        "刺樹合板"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-31_1592230108.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 46
+    },
+    {
+      "item_id": "ITEM_MISC_0028",
+      "names": [
+        "最高級熊皮"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-31_1592230108.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 57,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "最高級熊皮",
+      "confirmed_at": "2026-08-31T21:03:48"
+    },
+    {
+      "item_id": "ITEM_MISC_0029",
+      "names": [
+        "晶瑩的黑曜石"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-31_1592241787.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 39,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "晶瑩的黑曜石",
+      "confirmed_at": "2026-08-31T21:03:39"
+    },
+    {
+      "item_id": "ITEM_MISC_0030",
+      "names": [
+        "高級厚毛皮"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-28_1330451215.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 25,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "高級厚毛皮",
+      "confirmed_at": "2026-09-07T14:50:21",
+      "stage": "1"
+    },
+    {
+      "item_id": "ITEM_MISC_0031",
+      "names": [
+        "羊毛品",
+        "羊毛製品"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-28_1330451215.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 37,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "羊毛製品",
+      "confirmed_at": "2026-09-07T14:51:37"
+    },
+    {
+      "item_id": "ITEM_MISC_0032",
+      "names": [
+        "肉桂"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-28_1330455436.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 18,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "肉桂",
+      "confirmed_at": "2026-08-31T21:04:35"
+    },
+    {
+      "item_id": "ITEM_MISC_0033",
+      "names": [
+        "血紅樹木節"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-28_1330455436.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 14,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0034",
+      "names": [
+        "八角"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-28_1330474821.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 8,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "八角",
+      "confirmed_at": "2026-08-31T21:04:45"
+    },
+    {
+      "item_id": "ITEM_MISC_0035",
+      "names": [
+        "麻布"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-28_1330474821.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 7,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0036",
+      "names": [
+        "青铜瑰",
+        "青銅鑄塊"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-28_1330474821.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 12,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "青銅鑄塊",
+      "confirmed_at": "2026-09-03T00:35:39"
+    },
+    {
+      "item_id": "ITEM_MISC_0037",
+      "names": [
+        "岩塊"
+      ],
+      "kind": "未分類",
+      "first_seen_source": "2026-08-28_1330479375.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 11,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0038",
+      "names": [
+        "含深海記憶的黏"
+      ],
+      "kind": "未分類",
+      "first_seen_source": "2026-08-28_1330479375.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 11,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0039",
+      "names": [
+        "環節樹合板"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-08-28_1330488184.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 7,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "環節樹合板",
+      "confirmed_at": "2026-08-31T21:04:58"
+    },
+    {
+      "item_id": "ITEM_MISC_0040",
+      "names": [
+        "[大洋]酷斯海贼團的日記"
+      ],
+      "kind": "未分類",
+      "first_seen_source": "2026-08-29_1378084763.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 6,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0041",
+      "names": [
+        "深藍色塊"
+      ],
+      "kind": "未分類",
+      "first_seen_source": "2026-08-29_1378116142.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 6,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0042",
+      "names": [
+        "酷斯海賊團的遺物(協商下級)"
+      ],
+      "kind": "未分類",
+      "stage": "",
+      "first_seen_source": "2026-08-31_1592233912.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "酷斯海賊團的遺物(協商下級)",
+      "confirmed_at": "2026-09-09T00:08:06"
+    },
+    {
+      "item_id": "ITEM_MISC_0043",
+      "names": [
+        "蘆薈"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "first_seen_source": "2026-08-31_1592211091.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "蘆薈",
+      "confirmed_at": "2026-09-08T00:49:54"
+    },
+    {
+      "item_id": "ITEM_MISC_0044",
+      "names": [
+        "神秘的粉末"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-01_6233944.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 21,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0045",
+      "names": [
+        "[大洋]海獭族钓"
+      ],
+      "kind": "未分類",
+      "first_seen_source": "2026-09-01_6233944.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 28,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0075",
+      "names": [
+        "大洋觀測報告書",
+        "[大洋]觀測報告書"
+      ],
+      "kind": "特殊交換品",
+      "first_seen_source": "2026-09-01_6254214.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 46,
+      "identity_status": "玩家已確認",
+      "stage": "",
+      "confirmed_name": "[大洋]觀測報告書",
+      "confirmed_at": "2026-09-06T17:39:44"
+    },
+    {
+      "item_id": "ITEM_MISC_0047",
+      "names": [
+        "白樹合板"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-01_6254214.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 13,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0048",
+      "names": [
+        "冷杉樹合板"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-01_6254214.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 21,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0049",
+      "names": [
+        "華麗的珍珠結晶"
+      ],
+      "kind": "特殊交換品",
+      "first_seen_source": "2026-09-01_6261103.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 46,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "華麗的珍珠結晶",
+      "confirmed_at": "2026-09-08T11:25:41"
+    },
+    {
+      "item_id": "ITEM_MISC_0050",
+      "names": [
+        "開心果"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-01_6265391.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 13,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0051",
+      "names": [
+        "墅硬的皮革"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-01_6277352.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 8,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0052",
+      "names": [
+        "神獸的血液"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-01_6277352.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 22,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0053",
+      "names": [
+        "蕴含深海記憶的黏"
+      ],
+      "kind": "未分類",
+      "first_seen_source": "2026-09-01_6277352.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 14,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0054",
+      "names": [
+        "羊毛"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-01_6285060.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 15,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0055",
+      "names": [
+        "[大洋]海獺族釣鉤"
+      ],
+      "kind": "未分類",
+      "stage": "",
+      "first_seen_source": "2026-09-01_6233944.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "[大洋]海獺族釣鉤",
+      "confirmed_at": "2026-09-08T00:53:14"
+    },
+    {
+      "item_id": "ITEM_MISC_0056",
+      "names": [
+        "蘊含深海記憶的黏膠"
+      ],
+      "kind": "未分類",
+      "stage": "",
+      "first_seen_source": "2026-09-01_6277352.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "蘊含深海記憶的黏膠",
+      "confirmed_at": "2026-09-08T02:02:10"
+    },
+    {
+      "item_id": "ITEM_MISC_0057",
+      "names": [
+        "鐵塊"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-02_84461282.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 12,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0065",
+      "names": [
+        "大洋五彩珊瑚飾品",
+        "[大洋]五彩珊瑚飾品"
+      ],
+      "kind": "特殊交換品",
+      "first_seen_source": "2026-09-02_84461282.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 23,
+      "identity_status": "玩家已確認",
+      "stage": "",
+      "confirmed_name": "[大洋]五彩珊瑚飾品",
+      "confirmed_at": "2026-09-06T22:52:18"
+    },
+    {
+      "item_id": "ITEM_MISC_0059",
+      "names": [
+        "硬的皮革"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-02_84465136.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 4,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0060",
+      "names": [
+        "南瓜"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-02_84465136.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 6,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0061",
+      "names": [
+        "華麗的岩鹽塊"
+      ],
+      "kind": "特殊交換品",
+      "first_seen_source": "2026-09-02_84469840.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 9,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0062",
+      "names": [
+        "食用蜂蜜"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-02_84481435.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 9,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0063",
+      "names": [
+        "鍚鑄塊"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "first_seen_source": "2026-09-02_84494998.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "鍚鑄塊",
+      "confirmed_at": "2026-09-06T17:34:11"
+    },
+    {
+      "item_id": "ITEM_MISC_0064",
+      "names": [
+        "鐵鑄塊"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "first_seen_source": "2026-09-02_84461282.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "鐵鑄塊",
+      "confirmed_at": "2026-09-07T23:34:38"
+    },
+    {
+      "item_id": "ITEM_MISC_0066",
+      "names": [
+        "堅硬的皮革"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "first_seen_source": "2026-09-02_84465136.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "堅硬的皮革",
+      "confirmed_at": "2026-09-07T23:28:50"
+    },
+    {
+      "item_id": "ITEM_MISC_0067",
+      "names": [
+        "白樺樹合板"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "first_seen_source": "2026-09-02_84465136.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "白樺樹合板",
+      "confirmed_at": "2026-09-07T23:30:11"
+    },
+    {
+      "item_id": "ITEM_MISC_0068",
+      "names": [
+        "華麗的岩鹽鑄塊"
+      ],
+      "kind": "特殊交換品",
+      "stage": "",
+      "first_seen_source": "2026-09-02_84469840.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 2,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "華麗的岩鹽鑄塊",
+      "confirmed_at": "2026-09-08T21:58:57"
+    },
+    {
+      "item_id": "ITEM_MISC_0069",
+      "names": [
+        "岩鹽鑄塊"
+      ],
+      "kind": "未分類",
+      "stage": "",
+      "first_seen_source": "2026-09-02_84485172.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "岩鹽鑄塊",
+      "confirmed_at": "2026-09-08T16:01:33"
+    },
+    {
+      "item_id": "ITEM_MISC_0070",
+      "names": [
+        "錫鑄塊"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "first_seen_source": "2026-08-29_1378084763.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "錫鑄塊",
+      "confirmed_at": "2026-09-07T23:26:07"
+    },
+    {
+      "item_id": "ITEM_MISC_0071",
+      "names": [
+        "[大洋]鑄鐵修理工具"
+      ],
+      "kind": "特殊交換品",
+      "stage": "",
+      "first_seen_source": "2026-08-29_1378084763.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "[大洋]鑄鐵修理工具",
+      "confirmed_at": "2026-09-08T00:05:44"
+    },
+    {
+      "item_id": "ITEM_MISC_0072",
+      "names": [
+        "絲綢"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "first_seen_source": "2026-08-29_1378089817.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "絲綢",
+      "confirmed_at": "2026-09-03T14:21:31"
+    },
+    {
+      "item_id": "ITEM_MISC_0073",
+      "names": [
+        "大洋堅固玄鐵"
+      ],
+      "kind": "未分類",
+      "stage": "",
+      "first_seen_source": "2026-08-29_1378110737.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "大洋堅固玄鐵",
+      "confirmed_at": "2026-09-07T21:12:44"
+    },
+    {
+      "item_id": "ITEM_MISC_0074",
+      "names": [
+        "堅韌的皮革"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "first_seen_source": "2026-08-29_1378110737.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "堅韌的皮革",
+      "confirmed_at": "2026-09-08T00:04:42"
+    },
+    {
+      "item_id": "ITEM_MISC_0076",
+      "names": [
+        "绿塊"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-02_152599168.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 14,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0077",
+      "names": [
+        "肉豆蔻"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-02_152599168.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 16,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0078",
+      "names": [
+        "紅色樹瘤"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-02_152607543.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 9,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0079",
+      "names": [
+        "强化的島樹沉合板"
+      ],
+      "kind": "未分類",
+      "first_seen_source": "2026-09-02_152620122.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 7,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0080",
+      "names": [
+        "高級輕盈的羽毛"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-02_152620122.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 10,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0081",
+      "names": [
+        "罪人的血液"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-02_152624009.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 22,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0082",
+      "names": [
+        "鉛鑄塊"
+      ],
+      "kind": "未分類",
+      "stage": "",
+      "first_seen_source": "2026-09-02_152631483.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "鉛鑄塊",
+      "confirmed_at": "2026-09-08T21:16:08"
+    },
+    {
+      "item_id": "ITEM_MISC_0083",
+      "names": [
+        "綠鑄塊"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "first_seen_source": "2026-09-02_152599168.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "綠鑄塊",
+      "confirmed_at": "2026-09-08T00:13:48"
+    },
+    {
+      "item_id": "ITEM_MISC_0084",
+      "names": [
+        "剁碎的鳥肉"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-03_171933468.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 5,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0085",
+      "names": [
+        "苔藓樹合板"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-03_171937654.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 12,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0086",
+      "names": [
+        "黑水晶裝饰手镯"
+      ],
+      "kind": "未分類",
+      "first_seen_source": "2026-09-03_171963830.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 6,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0087",
+      "names": [
+        "酒的精髓"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-03_220890295.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 14,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0088",
+      "names": [
+        "大地的粉"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-03_220894099.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 7,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0089",
+      "names": [
+        "松樹合板"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-03_220894099.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 4,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0090",
+      "names": [
+        "啤酒"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-03_220894099.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 6,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0091",
+      "names": [
+        "華麗的岩瑰"
+      ],
+      "kind": "未分類",
+      "first_seen_source": "2026-09-03_220897468.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 5,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0092",
+      "names": [
+        "最高級野猪皮"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-03_220909630.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 9,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0093",
+      "names": [
+        "島樹沉合板"
+      ],
+      "kind": "未分類",
+      "first_seen_source": "2026-09-03_220913867.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 14,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0094",
+      "names": [
+        "高級華麗的羽毛"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-03_220921492.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 9,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0096",
+      "names": [
+        "華麗的岩鹽鑄瑰"
+      ],
+      "kind": "未分類",
+      "stage": "",
+      "first_seen_source": "2026-09-03_220897468.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "華麗的岩鹽鑄瑰",
+      "confirmed_at": "2026-09-03T14:22:15"
+    },
+    {
+      "item_id": "ITEM_MISC_0097",
+      "names": [
+        "島樹沉積合板"
+      ],
+      "kind": "未分類",
+      "stage": "",
+      "first_seen_source": "2026-09-03_220913867.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "島樹沉積合板",
+      "confirmed_at": "2026-09-08T00:55:35"
+    },
+    {
+      "item_id": "ITEM_MISC_0098",
+      "names": [
+        "高級柔软的皮革"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-03_247245570.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 2,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0099",
+      "names": [
+        "卡普拉斯樹合板"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-03_247252342.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 4,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0100",
+      "names": [
+        "閃亮的粉末"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-03_247259917.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 2,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0101",
+      "names": [
+        "塊"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-03_247259917.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 2,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0102",
+      "names": [
+        "鋅鑄塊"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "first_seen_source": "2026-09-03_247259917.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "鋅鑄塊",
+      "confirmed_at": "2026-09-08T22:00:07"
+    },
+    {
+      "item_id": "ITEM_MISC_0103",
+      "names": [
+        "接骨木合板"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-04_291407480.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 7,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0104",
+      "names": [
+        "清液體試藥"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-04_291407480.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 17,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0105",
+      "names": [
+        "高級硬的皮革"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-04_291407480.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 7,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0106",
+      "names": [
+        "只者的血液"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-04_291411167.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 8,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0107",
+      "names": [
+        "毛線"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-04_291420827.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 6,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0108",
+      "names": [
+        "黑暗粉末"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-04_291430953.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 7,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0109",
+      "names": [
+        "高級堅硬的皮革"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "first_seen_source": "2026-09-04_291407480.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "高級堅硬的皮革",
+      "confirmed_at": "2026-09-07T23:48:14"
+    },
+    {
+      "item_id": "ITEM_MISC_0110",
+      "names": [
+        "賢者的血液"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "first_seen_source": "2026-09-04_291411167.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "賢者的血液",
+      "confirmed_at": "2026-09-07T23:44:34"
+    },
+    {
+      "item_id": "ITEM_MISC_0111",
+      "names": [
+        "發光的深藍色瑰"
+      ],
+      "kind": "未分類",
+      "first_seen_source": "2026-09-04_321553021.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 2,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0112",
+      "names": [
+        "發光的深藍色鑄塊"
+      ],
+      "kind": "未分類",
+      "stage": "",
+      "first_seen_source": "2026-09-04_321553021.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "發光的深藍色鑄塊",
+      "confirmed_at": "2026-09-04T19:13:40"
+    },
+    {
+      "item_id": "ITEM_MISC_0113",
+      "names": [
+        "苔蘚樹合板"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "first_seen_source": "2026-09-04_321556608.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "苔蘚樹合板",
+      "confirmed_at": "2026-09-04T19:24:10"
+    },
+    {
+      "item_id": "ITEM_MISC_0114",
+      "names": [
+        "精巧的珍珠頂"
+      ],
+      "kind": "未分類",
+      "first_seen_source": "2026-09-04_340621055.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 5,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0115",
+      "names": [
+        "雜技藝人的血液"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-04_340621055.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 2,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0116",
+      "names": [
+        "雞肉"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-04_340621055.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 2,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0117",
+      "names": [
+        "柔软的皮革"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-04_340634735.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 5,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0118",
+      "names": [
+        "铜瑰"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-04_340645262.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 3,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0119",
+      "names": [
+        "精巧的珍珠項鍊"
+      ],
+      "kind": "未分類",
+      "stage": "",
+      "first_seen_source": "2026-09-04_340621055.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "精巧的珍珠項鍊",
+      "confirmed_at": "2026-09-04T23:50:49"
+    },
+    {
+      "item_id": "ITEM_MISC_0120",
+      "names": [
+        "銅鑄塊"
+      ],
+      "kind": "一般材料",
+      "stage": "",
+      "first_seen_source": "2026-09-04_340645262.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "銅鑄塊",
+      "confirmed_at": "2026-09-07T23:50:05"
+    },
+    {
+      "item_id": "ITEM_MISC_0121",
+      "names": [
+        "厚毛皮"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-02_88142055.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 10,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "厚毛皮",
+      "confirmed_at": "2026-09-07T14:53:20"
+    },
+    {
+      "item_id": "ITEM_MISC_0122",
+      "names": [
+        "扁柏樹合板"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-02_88154651.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 9,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0123",
+      "names": [
+        "無花果"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-02_88164076.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 8,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0124",
+      "names": [
+        "铜塊"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-05_413529928.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 2,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0125",
+      "names": [
+        "火焰的粉"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-05_421609762.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 3,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0126",
+      "names": [
+        "輕盈的羽毛"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-05_421609762.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 3,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0127",
+      "names": [
+        "崴月粉末"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-06_430776184.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 1,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0128",
+      "names": [
+        "仙人掌皮"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-06_430779922.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 7,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0129",
+      "names": [
+        "樹合板"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-06_430782757.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 1,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0130",
+      "names": [
+        "絲線"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-06_430792534.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 2,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0131",
+      "names": [
+        "普里卡"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-06_487451113.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 1,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0132",
+      "names": [
+        "高級的皮革"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-06_487451113.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 1,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0133",
+      "names": [
+        "S"
+      ],
+      "kind": "未分類",
+      "first_seen_source": "2026-09-06_494811649.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 1,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0134",
+      "names": [
+        "純粹的粉試藥"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-06_494827881.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 1,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0135",
+      "names": [
+        "杉樹合板"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-06_494837890.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 1,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0136",
+      "names": [
+        "純粹的珍珠結晶"
+      ],
+      "kind": "特殊交換品",
+      "stage": "",
+      "first_seen_source": "2026-09-06_494831451.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 5,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "純粹的珍珠結晶",
+      "confirmed_at": "2026-09-08T00:56:00"
+    },
+    {
+      "item_id": "ITEM_MISC_0137",
+      "names": [
+        "锡瑰"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-06_511331173.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 1,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0138",
+      "names": [
+        "侧柏合板"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-06_511355097.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 1,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0139",
+      "names": [
+        "古木樹皮"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-07_583416881.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 3,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0140",
+      "names": [
+        "華麗的岩塊"
+      ],
+      "kind": "特殊交換品",
+      "first_seen_source": "2026-09-07_583431227.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 3,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0141",
+      "names": [
+        "强化的島樹沉積合板"
+      ],
+      "kind": "未分類",
+      "stage": "",
+      "first_seen_source": "2026-09-03_171933468.JPG",
+      "first_seen_side": "output",
+      "evidence_count": 1,
+      "identity_status": "玩家已確認",
+      "confirmed_name": "强化的島樹沉積合板",
+      "confirmed_at": "2026-09-08T02:00:06"
+    },
+    {
+      "item_id": "ITEM_MISC_0142",
+      "names": [
+        "華麗的羽毛"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-08_650373057.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 5,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0143",
+      "names": [
+        "仙人掌刺"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-08_680493269.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 3,
+      "identity_status": "OCR待確認"
+    },
+    {
+      "item_id": "ITEM_MISC_0144",
+      "names": [
+        "火角"
+      ],
+      "kind": "一般材料",
+      "first_seen_source": "2026-09-08_680518877.JPG",
+      "first_seen_side": "input",
+      "evidence_count": 1,
+      "identity_status": "OCR待確認"
+    }
+  ],
+  "next_misc_no": 145
+}

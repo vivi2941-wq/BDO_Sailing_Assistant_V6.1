@@ -1,0 +1,6 @@
+Pillow
+numpy
+onnxruntime
+opencv-python-headless
+pyinstaller
+rapidocr-onnxruntime

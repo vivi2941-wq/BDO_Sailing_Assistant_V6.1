@@ -1,0 +1,1180 @@
+{
+  "items": [
+    {
+      "id": "品項ID",
+      "name": "目前官方名稱",
+      "abbr": "玩家縮寫",
+      "stage": "階段"
+    },
+    {
+      "id": "ITEM_1_001",
+      "name": "木筏雕刻品",
+      "abbr": "木筏",
+      "stage": 1
+    },
+    {
+      "id": "ITEM_1_002",
+      "name": "筋道的窩斑鰶生魚片",
+      "abbr": "生魚",
+      "stage": 1
+    },
+    {
+      "id": "ITEM_1_003",
+      "name": "剌蓮花種子袋",
+      "abbr": "剌花",
+      "stage": 1
+    },
+    {
+      "id": "ITEM_1_004",
+      "name": "乾燥藍玫瑰",
+      "abbr": "玫瑰",
+      "stage": 1
+    },
+    {
+      "id": "ITEM_1_005",
+      "name": "肥沃的土",
+      "abbr": "肥土",
+      "stage": 1
+    },
+    {
+      "id": "ITEM_1_006",
+      "name": "金色沙子",
+      "abbr": "金沙",
+      "stage": 1
+    },
+    {
+      "id": "ITEM_1_007",
+      "name": "巨大魚骨",
+      "abbr": "魚骨",
+      "stage": 1
+    },
+    {
+      "id": "ITEM_1_008",
+      "name": "海賊的火藥",
+      "abbr": "火藥",
+      "stage": 1
+    },
+    {
+      "id": "ITEM_1_009",
+      "name": "野豌豆花種子袋",
+      "abbr": "碗豆",
+      "stage": 1
+    },
+    {
+      "id": "ITEM_1_010",
+      "name": "未知的古代壁畫",
+      "abbr": "古畫",
+      "stage": 1
+    },
+    {
+      "id": "ITEM_1_011",
+      "name": "古代罈子碎片",
+      "abbr": "古罈",
+      "stage": 1
+    },
+    {
+      "id": "ITEM_1_012",
+      "name": "櫻桃樹種子袋",
+      "abbr": "櫻桃",
+      "stage": 1
+    },
+    {
+      "id": "ITEM_1_013",
+      "name": "髒兮兮的海鷗雕像",
+      "abbr": "海鷗",
+      "stage": 1
+    },
+    {
+      "id": "ITEM_1_014",
+      "name": "海上戰鬥糧食",
+      "abbr": "海糧",
+      "stage": 1
+    },
+    {
+      "id": "ITEM_2_001",
+      "name": "五色珠",
+      "abbr": "五色",
+      "stage": 2
+    },
+    {
+      "id": "ITEM_2_002",
+      "name": "精製飲用水",
+      "abbr": "精製",
+      "stage": 2
+    },
+    {
+      "id": "ITEM_2_003",
+      "name": "寬大的石板",
+      "abbr": "石板",
+      "stage": 2
+    },
+    {
+      "id": "ITEM_2_004",
+      "name": "平衡石塔",
+      "abbr": "石塔",
+      "stage": 2
+    },
+    {
+      "id": "ITEM_2_005",
+      "name": "克羅恩城金幣",
+      "abbr": "克金",
+      "stage": 2
+    },
+    {
+      "id": "ITEM_2_006",
+      "name": "最高級牡蠣箱子",
+      "abbr": "牡蠣",
+      "stage": 2
+    },
+    {
+      "id": "ITEM_2_007",
+      "name": "島村便當",
+      "abbr": "便當",
+      "stage": 2
+    },
+    {
+      "id": "ITEM_2_008",
+      "name": "海賊船桅杆",
+      "abbr": "桅杆",
+      "stage": 2
+    },
+    {
+      "id": "ITEM_2_009",
+      "name": "海膽剌",
+      "abbr": "海膽",
+      "stage": 2
+    },
+    {
+      "id": "ITEM_2_010",
+      "name": "海賊金幣",
+      "abbr": "海金",
+      "stage": 2
+    },
+    {
+      "id": "ITEM_2_011",
+      "name": "納勒柏海參",
+      "abbr": "海參",
+      "stage": 2
+    },
+    {
+      "id": "ITEM_2_012",
+      "name": "海洋救援品",
+      "abbr": "救援",
+      "stage": 2
+    },
+    {
+      "id": "ITEM_2_013",
+      "name": "寄居蟹殼裝飾",
+      "abbr": "蟹殼",
+      "stage": 2
+    },
+    {
+      "id": "ITEM_2_014",
+      "name": "怪生物觸鬚",
+      "abbr": "觸鬚",
+      "stage": 2
+    },
+    {
+      "id": "ITEM_3_001",
+      "name": "陳舊指令書",
+      "abbr": "令書",
+      "stage": 3
+    },
+    {
+      "id": "ITEM_3_002",
+      "name": "料理專用半月刀",
+      "abbr": "半月",
+      "stage": 3
+    },
+    {
+      "id": "ITEM_3_003",
+      "name": "黃鼠狼皮外套",
+      "abbr": "外套",
+      "stage": 3
+    },
+    {
+      "id": "ITEM_3_004",
+      "name": "骷髏圖案地毯",
+      "abbr": "地毯",
+      "stage": 3
+    },
+    {
+      "id": "ITEM_3_005",
+      "name": "很久以前的沙漏",
+      "abbr": "沙漏",
+      "stage": 3
+    },
+    {
+      "id": "ITEM_3_006",
+      "name": "骷髏裝飾茶杯",
+      "abbr": "茶杯",
+      "stage": 3
+    },
+    {
+      "id": "ITEM_3_007",
+      "name": "稀有藥草堆",
+      "abbr": "草堆",
+      "stage": 3
+    },
+    {
+      "id": "ITEM_3_008",
+      "name": "海賊的補給箱",
+      "abbr": "補給",
+      "stage": 3
+    },
+    {
+      "id": "ITEM_3_009",
+      "name": "洛托斯網子",
+      "abbr": "網子",
+      "stage": 3
+    },
+    {
+      "id": "ITEM_3_010",
+      "name": "偵察兵望遠鏡",
+      "abbr": "遠鏡",
+      "stage": 3
+    },
+    {
+      "id": "ITEM_3_011",
+      "name": "濃稠的怪生物血液",
+      "abbr": "濃血",
+      "stage": 3
+    },
+    {
+      "id": "ITEM_3_012",
+      "name": "藍光蠟燭堆",
+      "abbr": "藍燭",
+      "stage": 3
+    },
+    {
+      "id": "ITEM_3_013",
+      "name": "撕破的海賊藏寶圖",
+      "abbr": "寶圖",
+      "stage": 3
+    },
+    {
+      "id": "ITEM_3_014",
+      "name": "鐘乳石碎片",
+      "abbr": "鐘乳",
+      "stage": 3
+    },
+    {
+      "id": "ITEM_4_001",
+      "name": "貝殼裝飾",
+      "abbr": "貝殼",
+      "stage": 4
+    },
+    {
+      "id": "ITEM_4_002",
+      "name": "裝有金幣的破舊箱子",
+      "abbr": "金箱",
+      "stage": 4
+    },
+    {
+      "id": "ITEM_4_003",
+      "name": "青綠鹽塊",
+      "abbr": "青綠",
+      "stage": 4
+    },
+    {
+      "id": "ITEM_4_004",
+      "name": "偷竊的海賊團短刀",
+      "abbr": "偷刀",
+      "stage": 4
+    },
+    {
+      "id": "ITEM_4_005",
+      "name": "五彩線團",
+      "abbr": "彩線",
+      "stage": 4
+    },
+    {
+      "id": "ITEM_4_006",
+      "name": "船夫的修練書",
+      "abbr": "船書",
+      "stage": 4
+    },
+    {
+      "id": "ITEM_4_007",
+      "name": "紫水晶碎片",
+      "abbr": "紫晶",
+      "stage": 4
+    },
+    {
+      "id": "ITEM_4_008",
+      "name": "凝固的熔岩液",
+      "abbr": "熔岩",
+      "stage": 4
+    },
+    {
+      "id": "ITEM_4_009",
+      "name": "海上騎士團的頭盔",
+      "abbr": "頭盔",
+      "stage": 4
+    },
+    {
+      "id": "ITEM_4_010",
+      "name": "被截斷脖頸的龍雕像",
+      "abbr": "龍雕",
+      "stage": 4
+    },
+    {
+      "id": "ITEM_4_011",
+      "name": "青銅燭臺",
+      "abbr": "燭台",
+      "stage": 4
+    },
+    {
+      "id": "ITEM_4_012",
+      "name": "海上騎士團的槍",
+      "abbr": "騎槍",
+      "stage": 4
+    },
+    {
+      "id": "ITEM_4_013",
+      "name": "萬靈藥",
+      "abbr": "靈丹",
+      "stage": 4
+    },
+    {
+      "id": "ITEM_4_014",
+      "name": "海賊的鑰匙",
+      "abbr": "鑰匙",
+      "stage": 4
+    },
+    {
+      "id": "ITEM_5_001",
+      "name": "八角紋樣保管箱",
+      "abbr": "八角",
+      "stage": 5
+    },
+    {
+      "id": "ITEM_5_002",
+      "name": "高級紋樣布料",
+      "abbr": "布料",
+      "stage": 5
+    },
+    {
+      "id": "ITEM_5_003",
+      "name": "白色幼蟲標本",
+      "abbr": "白蟲",
+      "stage": 5
+    },
+    {
+      "id": "ITEM_5_004",
+      "name": "古代人肖像畫",
+      "abbr": "肖像",
+      "stage": 5
+    },
+    {
+      "id": "ITEM_5_005",
+      "name": "來歷不明的岩石",
+      "abbr": "岩石",
+      "stage": 5
+    },
+    {
+      "id": "ITEM_5_006",
+      "name": "37年藥酒",
+      "abbr": "37年",
+      "stage": 5
+    },
+    {
+      "id": "ITEM_5_007",
+      "name": "金色魚鱗",
+      "abbr": "金魚",
+      "stage": 5
+    },
+    {
+      "id": "ITEM_5_008",
+      "name": "褪色的黃金龍雕像",
+      "abbr": "金龍",
+      "stage": 5
+    },
+    {
+      "id": "ITEM_5_009",
+      "name": "最高級黃金燭臺",
+      "abbr": "金燭",
+      "stage": 5
+    },
+    {
+      "id": "ITEM_5_010",
+      "name": "弄蝶標本",
+      "abbr": "蝴蝶",
+      "stage": 5
+    },
+    {
+      "id": "ITEM_5_011",
+      "name": "雕像之淚",
+      "abbr": "雕淚",
+      "stage": 5
+    },
+    {
+      "id": "ITEM_5_012",
+      "name": "藍光石英",
+      "abbr": "藍石",
+      "stage": 5
+    },
+    {
+      "id": "ITEM_5_013",
+      "name": "102年黃金草",
+      "abbr": 102,
+      "stage": 5
+    },
+    {
+      "id": "ITEM_5_014",
+      "name": "青春秘藥",
+      "abbr": "祕藥",
+      "stage": 5
+    },
+    {
+      "id": "ITEM_6_001",
+      "name": "瓦倫西亞沙塵暴盾牌",
+      "abbr": "瓦牌",
+      "stage": 6
+    },
+    {
+      "id": "ITEM_6_002",
+      "name": "瓦倫西亞沙漠寶劍",
+      "abbr": "瓦劍",
+      "stage": 6
+    },
+    {
+      "id": "ITEM_6_003",
+      "name": "華麗的駱駝皮",
+      "abbr": "華皮",
+      "stage": 6
+    },
+    {
+      "id": "ITEM_6_004",
+      "name": "黃金沙漠的沙子戒指",
+      "abbr": "黃戒",
+      "stage": 6
+    },
+    {
+      "id": "ITEM_6_005",
+      "name": "最高級椰子糖漿",
+      "abbr": "椰漿",
+      "stage": 6
+    },
+    {
+      "id": "ITEM_6_006",
+      "name": "阿利赫恣傳統茶",
+      "abbr": "阿茶",
+      "stage": 6
+    },
+    {
+      "id": "ITEM_6_007",
+      "name": "阿利赫恣燈塔雕像",
+      "abbr": "阿像",
+      "stage": 6
+    },
+    {
+      "id": "ITEM_6_008",
+      "name": "金色仙人掌花束",
+      "abbr": "金花",
+      "stage": 6
+    },
+    {
+      "id": "ITEM_6_009",
+      "name": "森林妖精香水瓶",
+      "abbr": "森瓶",
+      "stage": 6
+    },
+    {
+      "id": "ITEM_6_010",
+      "name": "卡瑪希爾比亞雕像",
+      "abbr": "卡像",
+      "stage": 6
+    },
+    {
+      "id": "ITEM_6_011",
+      "name": "月光水晶提燈",
+      "abbr": "月燈",
+      "stage": 6
+    },
+    {
+      "id": "ITEM_6_012",
+      "name": "銀色樹木苔蘚裝飾",
+      "abbr": "銀飾",
+      "stage": 6
+    },
+    {
+      "id": "ITEM_6_013",
+      "name": "黑色玫瑰花束",
+      "abbr": "黑花",
+      "stage": 6
+    },
+    {
+      "id": "ITEM_6_014",
+      "name": "月光水晶碎片",
+      "abbr": "月碎",
+      "stage": 6
+    },
+    {
+      "id": "ITEM_6_015",
+      "name": "月光暗影熟成的葡萄酒",
+      "abbr": "月酒",
+      "stage": 6
+    },
+    {
+      "id": "ITEM_6_016",
+      "name": "暗影裝飾鏡子",
+      "abbr": "暗鏡",
+      "stage": 6
+    },
+    {
+      "id": "ITEM_6_017",
+      "name": "竹子汁液箱子",
+      "abbr": "竹箱",
+      "stage": 6
+    },
+    {
+      "id": "ITEM_6_018",
+      "name": "南浦特產柿子箱子",
+      "abbr": "南箱",
+      "stage": 6
+    },
+    {
+      "id": "ITEM_6_019",
+      "name": "高級墨香盒",
+      "abbr": "高盒",
+      "stage": 6
+    },
+    {
+      "id": "ITEM_6_020",
+      "name": "大路村覆盆莓箱子",
+      "abbr": "大箱",
+      "stage": 6
+    },
+    {
+      "id": "ITEM_6_021",
+      "name": "最高級青華白瓷箱子",
+      "abbr": "瓷箱",
+      "stage": 6
+    },
+    {
+      "id": "ITEM_6_022",
+      "name": "最高級紗帽箱子",
+      "abbr": "帽箱",
+      "stage": 6
+    },
+    {
+      "id": "ITEM_6_023",
+      "name": "黃銅器皿箱子",
+      "abbr": "皿箱",
+      "stage": 6
+    },
+    {
+      "id": "ITEM_6_024",
+      "name": "鋒利的紅花刀箱子",
+      "abbr": "刀箱",
+      "stage": 6
+    },
+    {
+      "id": "ITEM_7_001",
+      "name": "最高級海地爾產葡萄酒",
+      "abbr": "海酒",
+      "stage": 7
+    },
+    {
+      "id": "ITEM_7_002",
+      "name": "金色小麥粉袋",
+      "abbr": "金麥",
+      "stage": 7
+    },
+    {
+      "id": "ITEM_7_003",
+      "name": "有機蜂蜜箱子",
+      "abbr": "蜂蜜",
+      "stage": 7
+    },
+    {
+      "id": "ITEM_7_004",
+      "name": "巴雷諾斯傳統錨裝飾",
+      "abbr": "巴錨",
+      "stage": 7
+    },
+    {
+      "id": "ITEM_7_005",
+      "name": "黃金老鷹胸針",
+      "abbr": "黃針",
+      "stage": 7
+    },
+    {
+      "id": "ITEM_7_006",
+      "name": "卡爾佩恩騎士團的戰鬥教本",
+      "abbr": "卡本",
+      "stage": 7
+    },
+    {
+      "id": "ITEM_7_007",
+      "name": "卡爾佩恩黃金裝飾燭台",
+      "abbr": "卡燭",
+      "stage": 7
+    },
+    {
+      "id": "ITEM_7_008",
+      "name": "卡爾佩恩匠人的珍珠項鍊",
+      "abbr": "卡鍊",
+      "stage": 7
+    },
+    {
+      "id": "ITEM_7_009",
+      "name": "薩扇軍需品箱子",
+      "abbr": "薩箱",
+      "stage": 7
+    },
+    {
+      "id": "ITEM_7_010",
+      "name": "石尾紅蘿蔔健康餐箱子",
+      "abbr": "石箱",
+      "stage": 7
+    },
+    {
+      "id": "ITEM_7_011",
+      "name": "奧馬勒熔岩粉末",
+      "abbr": "奧粉",
+      "stage": 7
+    },
+    {
+      "id": "ITEM_7_012",
+      "name": "塔利波咒術缸子",
+      "abbr": "塔缸",
+      "stage": 7
+    },
+    {
+      "id": "ITEM_7_013",
+      "name": "露瑟卡荊棘花束",
+      "abbr": "露花",
+      "stage": 7
+    },
+    {
+      "id": "ITEM_7_014",
+      "name": "堅硬的卡普拉斯木材",
+      "abbr": "卡普",
+      "stage": 7
+    },
+    {
+      "id": "ITEM_7_015",
+      "name": "哈金扎最高級香水",
+      "abbr": "哈水",
+      "stage": 7
+    },
+    {
+      "id": "ITEM_7_016",
+      "name": "艾達納王位的紀錄書",
+      "abbr": "艾書",
+      "stage": 7
+    },
+    {
+      "id": "ITEM_7_017",
+      "name": "匠人的貝殼項鍊",
+      "abbr": "貝鍊",
+      "stage": 7
+    },
+    {
+      "id": "ITEM_7_018",
+      "name": "巴雷諾斯航海士的望遠鏡",
+      "abbr": "巴鏡",
+      "stage": 7
+    },
+    {
+      "id": "ITEM_7_019",
+      "name": "巴雷諾斯鯨魚雕像",
+      "abbr": "巴像",
+      "stage": 7
+    },
+    {
+      "id": "ITEM_7_020",
+      "name": "巴雷諾斯雪花鹽",
+      "abbr": "巴雪",
+      "stage": 7
+    },
+    {
+      "id": "ITEM_7_021",
+      "name": "巴雷諾斯星光鹽",
+      "abbr": "巴星",
+      "stage": 7
+    },
+    {
+      "id": "ITEM_7_022",
+      "name": "巴雷諾斯文物碎片",
+      "abbr": "巴碎",
+      "stage": 7
+    },
+    {
+      "id": "ITEM_7_023",
+      "name": "巴雷諾斯彩虹珊瑚",
+      "abbr": "巴珊",
+      "stage": 7
+    },
+    {
+      "id": "ITEM_7_024",
+      "name": "彩虹色海原石碎片",
+      "abbr": "彩碎",
+      "stage": 7
+    }
+  ],
+  "points": [
+    {
+      "id": "點位ID",
+      "name": "目前官方名稱",
+      "group": "原始分區"
+    },
+    {
+      "id": "POINT_Z_001",
+      "name": "拉麥達",
+      "group": "Z"
+    },
+    {
+      "id": "POINT_Z_002",
+      "name": "西歐尼",
+      "group": "Z"
+    },
+    {
+      "id": "POINT_Z_003",
+      "name": "今貝雷",
+      "group": "Z"
+    },
+    {
+      "id": "POINT_Z_004",
+      "name": "莫德里",
+      "group": "Z"
+    },
+    {
+      "id": "POINT_Z_005",
+      "name": "巴艾加",
+      "group": "Z"
+    },
+    {
+      "id": "POINT_Z_006",
+      "name": "泰亞莫",
+      "group": "Z"
+    },
+    {
+      "id": "POINT_X_001",
+      "name": "戴特恩",
+      "group": "X"
+    },
+    {
+      "id": "POINT_X_002",
+      "name": "奈特尼恩",
+      "group": "X"
+    },
+    {
+      "id": "POINT_X_003",
+      "name": "德恩特",
+      "group": "X"
+    },
+    {
+      "id": "POINT_X_004",
+      "name": "奧波恩",
+      "group": "X"
+    },
+    {
+      "id": "POINT_X_005",
+      "name": "艾波迪恩",
+      "group": "X"
+    },
+    {
+      "id": "POINT_X_006",
+      "name": "阿爾波雷斯",
+      "group": "X"
+    },
+    {
+      "id": "POINT_X_007",
+      "name": "巴拉堷斯",
+      "group": "X"
+    },
+    {
+      "id": "POINT_X_008",
+      "name": "藍迪斯",
+      "group": "X"
+    },
+    {
+      "id": "POINT_X_009",
+      "name": "西路卡",
+      "group": "X"
+    },
+    {
+      "id": "POINT_X_010",
+      "name": "艾裴莉雅崗哨",
+      "group": "X"
+    },
+    {
+      "id": "POINT_Q_001",
+      "name": "泰絲特",
+      "group": "Q"
+    },
+    {
+      "id": "POINT_Q_002",
+      "name": "阿爾麥",
+      "group": "Q"
+    },
+    {
+      "id": "POINT_Q_003",
+      "name": "庫伊特",
+      "group": "Q"
+    },
+    {
+      "id": "POINT_Q_004",
+      "name": "皮尼斯",
+      "group": "Q"
+    },
+    {
+      "id": "POINT_Q_005",
+      "name": "阿利塔",
+      "group": "Q"
+    },
+    {
+      "id": "POINT_A_001",
+      "name": "里斯茲",
+      "group": "A"
+    },
+    {
+      "id": "POINT_A_002",
+      "name": "納勒柏",
+      "group": "A"
+    },
+    {
+      "id": "POINT_A_003",
+      "name": "斯泰藍",
+      "group": "A"
+    },
+    {
+      "id": "POINT_A_004",
+      "name": "露露波",
+      "group": "A"
+    },
+    {
+      "id": "POINT_A_005",
+      "name": "馬路卡",
+      "group": "A"
+    },
+    {
+      "id": "POINT_W_001",
+      "name": "塔蘇",
+      "group": "W"
+    },
+    {
+      "id": "POINT_W_002",
+      "name": "雷瑪",
+      "group": "W"
+    },
+    {
+      "id": "POINT_W_003",
+      "name": "土路",
+      "group": "W"
+    },
+    {
+      "id": "POINT_W_004",
+      "name": "奧魯普斯",
+      "group": "W"
+    },
+    {
+      "id": "POINT_S_001",
+      "name": "茵巴德恩",
+      "group": "S"
+    },
+    {
+      "id": "POINT_S_002",
+      "name": "巴貝茲",
+      "group": "S"
+    },
+    {
+      "id": "POINT_S_003",
+      "name": "洋朱",
+      "group": "S"
+    },
+    {
+      "id": "POINT_S_004",
+      "name": "瑪魯雷斯",
+      "group": "S"
+    },
+    {
+      "id": "POINT_S_005",
+      "name": "馬里貝諾",
+      "group": "S"
+    },
+    {
+      "id": "POINT_S_006",
+      "name": "艾貝特",
+      "group": "S"
+    },
+    {
+      "id": "POINT_S_007",
+      "name": "杜胡",
+      "group": "S"
+    },
+    {
+      "id": "POINT_S_008",
+      "name": "路易巴斯",
+      "group": "S"
+    },
+    {
+      "id": "POINT_S_009",
+      "name": "奧爾比亞海岸",
+      "group": "S"
+    },
+    {
+      "id": "POINT_E_001",
+      "name": "拉西德",
+      "group": "E"
+    },
+    {
+      "id": "POINT_E_002",
+      "name": "阿爾納哈",
+      "group": "E"
+    },
+    {
+      "id": "POINT_E_003",
+      "name": "阿茲魯",
+      "group": "E"
+    },
+    {
+      "id": "POINT_E_004",
+      "name": "伊利亞",
+      "group": "E"
+    },
+    {
+      "id": "POINT_D_001",
+      "name": "巴雷米",
+      "group": "D"
+    },
+    {
+      "id": "POINT_D_002",
+      "name": "維亦塔",
+      "group": "D"
+    },
+    {
+      "id": "POINT_D_003",
+      "name": "帕拉塔",
+      "group": "D"
+    },
+    {
+      "id": "POINT_D_004",
+      "name": "肯貝拉",
+      "group": "D"
+    },
+    {
+      "id": "POINT_D_005",
+      "name": "阿拉吉爾",
+      "group": "D"
+    },
+    {
+      "id": "POINT_D_006",
+      "name": "艾普戴倫",
+      "group": "D"
+    },
+    {
+      "id": "POINT_D_007",
+      "name": "貝盧瓦",
+      "group": "D"
+    },
+    {
+      "id": "POINT_D_008",
+      "name": "歐斯特拉",
+      "group": "D"
+    },
+    {
+      "id": "POINT_D_009",
+      "name": "塔拉穆拉",
+      "group": "D"
+    },
+    {
+      "id": "POINT_C_001",
+      "name": "普價拉",
+      "group": "C"
+    },
+    {
+      "id": "POINT_C_002",
+      "name": "戴林哈特",
+      "group": "C"
+    },
+    {
+      "id": "POINT_C_003",
+      "name": "珀爾巴拉",
+      "group": "C"
+    },
+    {
+      "id": "POINT_C_004",
+      "name": "薩扇營地",
+      "group": "C"
+    },
+    {
+      "id": "POINT_V_001",
+      "name": "索寇塔",
+      "group": "V"
+    },
+    {
+      "id": "POINT_V_002",
+      "name": "里埃",
+      "group": "V"
+    },
+    {
+      "id": "POINT_R_001",
+      "name": "庭貝拉",
+      "group": "R"
+    },
+    {
+      "id": "POINT_R_002",
+      "name": "雷拉歐",
+      "group": "R"
+    },
+    {
+      "id": "POINT_R_003",
+      "name": "普勒泰南",
+      "group": "R"
+    },
+    {
+      "id": "POINT_R_004",
+      "name": "莎莎",
+      "group": "R"
+    },
+    {
+      "id": "POINT_R_005",
+      "name": "羅茲班",
+      "group": "R"
+    },
+    {
+      "id": "POINT_F_001",
+      "name": "寶雅",
+      "group": "F"
+    },
+    {
+      "id": "POINT_F_002",
+      "name": "奧利沙",
+      "group": "F"
+    },
+    {
+      "id": "POINT_F_003",
+      "name": "堤葛黎史",
+      "group": "F"
+    },
+    {
+      "id": "POINT_F_004",
+      "name": "薛納",
+      "group": "F"
+    },
+    {
+      "id": "POINT_F_005",
+      "name": "艾史帕",
+      "group": "F"
+    },
+    {
+      "id": "POINT_F_006",
+      "name": "聖殿海岸",
+      "group": "F"
+    },
+    {
+      "id": "POINT_G_001",
+      "name": "赫爾馬",
+      "group": "G"
+    },
+    {
+      "id": "POINT_G_002",
+      "name": "卡修麻",
+      "group": "G"
+    },
+    {
+      "id": "POINT_G_003",
+      "name": "德寇",
+      "group": "G"
+    },
+    {
+      "id": "POINT_HIGHZ_001",
+      "name": "深夜港口",
+      "group": "高Z"
+    },
+    {
+      "id": "POINT_HIGHZ_002",
+      "name": "格蘭迪哈",
+      "group": "高Z"
+    },
+    {
+      "id": "POINT_HIGHG_001",
+      "name": "阿利赫恣村莊",
+      "group": "高G"
+    },
+    {
+      "id": "POINT_HIGHG_002",
+      "name": "哈科班",
+      "group": "高G"
+    },
+    {
+      "id": "POINT_ZONE_001",
+      "name": "向陽",
+      "group": "大洋"
+    },
+    {
+      "id": "POINT_ZONE_002",
+      "name": "杜鵑",
+      "group": "大洋"
+    },
+    {
+      "id": "POINT_REMOTE_001",
+      "name": "遇難的哈蘭運輸船",
+      "group": "遠線"
+    },
+    {
+      "id": "POINT_REMOTE_002",
+      "name": "漂下來的未完成船舶",
+      "group": "遠線"
+    },
+    {
+      "id": "POINT_REMOTE_003",
+      "name": "朗提尼亞戰鬥船舶",
+      "group": "遠線"
+    },
+    {
+      "id": "POINT_REMOTE_004",
+      "name": "法基奧戰鬥竹筏",
+      "group": "遠線"
+    },
+    {
+      "id": "POINT_REMOTE_005",
+      "name": "烏鴉商團的船舶",
+      "group": "遠線"
+    },
+    {
+      "id": "POINT_REMOTE_006",
+      "name": "遇難的古代遺跡運",
+      "group": "遠線"
+    },
+    {
+      "id": "POINT_REMOTE_007",
+      "name": "蘇爾拉斯齊古的海",
+      "group": "遠線"
+    },
+    {
+      "id": "POINT_REMOTE_008",
+      "name": "遇難的裏克昆的船",
+      "group": "遠線"
+    },
+    {
+      "id": "POINT_REMOTE_009",
+      "name": "遇難的酷斯海賊船",
+      "group": "遠線"
+    },
+    {
+      "id": "POINT_REMOTE_010",
+      "name": "遇難的海運船",
+      "group": "遠線"
+    },
+    {
+      "id": "POINT_REMOTE_011",
+      "name": "殘月公會的重帆船",
+      "group": "遠線"
+    },
+    {
+      "id": "POINT_REMOTE_012",
+      "name": "流浪商人的船",
+      "group": "遠線"
+    },
+    {
+      "id": "POINT_REMOTE_013",
+      "name": "烏鴉巢",
+      "group": "遠線"
+    }
+  ]
+}
