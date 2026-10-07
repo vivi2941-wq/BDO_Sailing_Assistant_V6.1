@@ -9101,7 +9101,7 @@ class App(tk.Tk):
                     sales.append(info)
 
         parent=self._route_dialog_parent();win=tk.Toplevel(parent)
-        win.title("🎉 今日航程完成");win.geometry("720x650");win.configure(bg=CUTE_BG);win.transient(parent)
+        win.title("🎉 今日航程完成");win.geometry("720x750");win.configure(bg=CUTE_BG);win.transient(parent)
         hero=tk.Frame(win,bg="#fffef9",padx=24,pady=18);hero.pack(fill="x",padx=18,pady=(18,8))
         add_mascot(hero,size=110,opacity=.96,side="left",padx=10,quip_key="routes")
         tk.Label(hero,text="🎉 全程跑完啦！\n海豹已經把今天的航海日記寫好了。",font=(FONT,22,"bold"),
@@ -9115,6 +9115,17 @@ class App(tk.Tk):
             sellbox=tk.LabelFrame(win,text="🏝 回伊利亞時記得整理｜5階溢出",font=(FONT,14,"bold"),
                                   bg=CUTE_YELLOW_SOFT,fg="#8a4b08",padx=12,pady=8)
             sellbox.pack(fill="both",expand=True,padx=18,pady=8)
+            # V6.1：批量確認賣出按鈕移到頂部
+            def sell_all():
+                total_excess=sum(info.get("excess",0) for info in sales)
+                if not messagebox.askyesno("批量確認賣出",f"你已在遊戲內賣出所有溢出的 5 階品（共 {total_excess} 個）？",parent=win):return
+                for info in sales:
+                    ok,msg=sell_t5_excess(info["output_id"],info.get("display_name") or info.get("name") or info["output_id"],info["route"],info["source"])
+                    if not ok:messagebox.showwarning("出售失敗",f"{info.get('display_name') or info.get('name') or info['output_id']}：{msg}",parent=win);return
+                STORE.save(self.state_data);win.destroy();self.state_data.pop("journey_ending_shown_for",None);self.maybe_show_journey_ending()
+            batch_row=tk.Frame(sellbox,bg=CUTE_YELLOW_SOFT);batch_row.pack(fill="x",pady=(8,4))
+            tk.Button(batch_row,text="✓ 批量確認賣出全部",font=(FONT,13,"bold"),bg=CUTE_GREEN,fg="white",
+                      relief="flat",command=sell_all,padx=18,pady=7).pack(side="right")
             for info in sales:
                 row=tk.Frame(sellbox,bg=CUTE_YELLOW_SOFT);row.pack(fill="x",pady=4)
                 nm=info.get("display_name") or info.get("name") or info["output_id"]
@@ -9126,17 +9137,6 @@ class App(tk.Tk):
                     if not ok:messagebox.showwarning("無法出售",str(msg),parent=win);return
                     STORE.save(self.state_data);win.destroy();self.state_data.pop("journey_ending_shown_for",None);self.maybe_show_journey_ending()
                 tk.Button(row,text=f"✓ 已賣出 {info['excess']}",font=(FONT,11,"bold"),command=sell_one).pack(side="right")
-            # V6.1：添加批量確認賣出按鈕
-            def sell_all():
-                total_excess=sum(info.get("excess",0) for info in sales)
-                if not messagebox.askyesno("批量確認賣出",f"你已在遊戲內賣出所有溢出的 5 階品（共 {total_excess} 個）？",parent=win):return
-                for info in sales:
-                    ok,msg=sell_t5_excess(info["output_id"],info.get("display_name") or info.get("name") or info["output_id"],info["route"],info["source"])
-                    if not ok:messagebox.showwarning("出售失敗",f"{info.get('display_name') or info.get('name') or info['output_id']}：{msg}",parent=win);return
-                STORE.save(self.state_data);win.destroy();self.state_data.pop("journey_ending_shown_for",None);self.maybe_show_journey_ending()
-            batch_row=tk.Frame(sellbox,bg=CUTE_YELLOW_SOFT);batch_row.pack(fill="x",pady=(12,4))
-            tk.Button(batch_row,text="✓ 批量確認賣出全部",font=(FONT,13,"bold"),bg=CUTE_GREEN,fg="white",
-                      relief="flat",command=sell_all,padx=18,pady=7).pack(side="right")
         else:
             tk.Label(win,text="📦 5階庫存都在保留上限內，不用另外出售。",font=(FONT,14,"bold"),
                      bg=CUTE_GREEN_SOFT,fg=CUTE_GREEN,pady=12).pack(fill="x",padx=18,pady=8)
